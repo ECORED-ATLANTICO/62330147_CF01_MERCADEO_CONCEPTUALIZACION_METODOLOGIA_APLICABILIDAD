@@ -1,45 +1,122 @@
+///////////CUSTOM BANNER PRINCIPAL E INTERNO/////////////
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
+    top: 15%
+    right: 80%
+    width: 90px
+    animation: orbitPerfect 8s linear infinite
 
-@keyframes float1
-  0%
-    transform: translateY(20px)
-  100%
-    transform: translateY(0px)
-  
-///////////CUSTOM BANNER PRINCIPAL E INTERNO/////////////
+  &-2
+    position: absolute
+    top: 26%
+    right: 15%
+    width: 70px
+    animation: orbitPerfect 10s linear infinite
+
+  &-3
+    position: absolute
+    top: 60%
+    right: 95%
+    width: 65px
+    animation: orbitPerfect 12s linear infinite
+
+@media (min-width: 1025px)
+  .banner-principal-decorativo
+    &-1
+      top: 15%
+      right: 80%
+      width: 120px
+    &-2
+      top: 26%
+      right: 15%
+      width: 100px
+    &-3
+      top: 55%
+      right: 95%
+      width: 100px
+
+@keyframes orbitPerfect
+  from
+    transform: rotate(0deg) translateX(12px) rotate(0deg)
+  to
+    transform: rotate(360deg) translateX(12px) rotate(-360deg)
+    
 .banner-principal .tarjeta
   background-position: left 50% !important
 
-.titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: white !important
-
-.banner-interno__titulo__icono i
-  color: $color-primario
-
-figcaption
-  font-weight: normal
+.titulo-principal__numero
+  min-width: 45px
+  height: 45px
+  margin-right: 15px
+  position: relative
+  background-color: $color-acento-contenido !important
+.banner-interno__fondo 
+  background-image: url('../assets/curso/portada/banner_interno.png') !important
 
 .banner-principal__row .banner-principal__img
-  width: 500px !important
+  width: 450px !important
   @media screen and (max-width: $bp-max-xl)
-    width: 400px !important
+    width: 350px !important
+
+.banner-principal .tarjeta
+  background-position: left 50% !important
+  @media screen and (max-width: $bp-max-md)
+    background-image: url(../assets/curso/portada/fondo-banner-principal-sm.png) !important
+  @media screen and (max-width: $bp-max-sm)
+    background-image: url(../assets/curso/portada/fondo-banner-principal-xs.png) !important
+
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
+  color: $color-sistema-texto
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: $color-sistema-texto !important
-.banner-interno__fondo
-  background-image: url("../assets/curso/banner_interno.png") !important
-.banner-principal .tarjeta
-  @media screen and (max-width: $bp-max-md)
-    background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png") !important
-  @media screen and (max-width: $bp-max-sm)
-    background-image: url("../assets/curso/portada/fondo-banner-principal-xs.png") !important
+
+.banner-interno__titulo__icono i
+  color: $white
+
+.banner-interno__titulo__icono 
+  background: $color-primario
+
+.banner-interno__titulo h2
+  color: $color-sistema-texto
+ 
+.barra-avance__boton--regresar span
+  color: $color-sistema-texto !important
+
+figcaption
+  font-weight: normal
+  
+//subtitulo-destacado
+.subtitulo-destacado
+  display: inline-flex
+  align-items: center
+  width: fit-content
+  max-width: 100%
+
+  &__fondo
+    display: flex
+    align-items: center
+    background-image: url('../assets/curso/tema2/img_5.png') 
+    background-size: 100% 100% 
+    background-repeat: no-repeat
+    padding: 1rem 5rem 1rem 4.5rem
+
+  &__texto
+    font-size: 1.15rem
+    font-weight: 800
+    color: $color-sistema-texto
+    margin: 0
+    line-height: 1.3
+    word-break: break-word
+
+@media (max-width: 576px)
+  .subtitulo-destacado
+    width: 100%
+
+    &__fondo
+      flex: 1
+      padding: 1rem 4rem 1rem 4.2rem
+
+    &__texto
+      font-size: 1rem

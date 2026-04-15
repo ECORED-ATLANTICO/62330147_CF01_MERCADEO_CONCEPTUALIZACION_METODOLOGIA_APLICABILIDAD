@@ -3,7 +3,7 @@ name: Deploy Vue App to GitHub Pages
 on:
   push:
     branches:
-      - master  # Se ejecuta cuando hay cambios en master
+      - master
 
 permissions:
   contents: write
@@ -14,7 +14,6 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     environment: production
-
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
@@ -22,16 +21,14 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 14
+          node-version: 18
 
       - name: Install Dependencies
-        run: npm ci  # Usa npm ci para instalaciones más rápidas y estables
+        run: npm install --legacy-peer-deps
 
       - name: Build Vue App
-        run: npm run build
-
-      - name: Deploy to GitHub Pages
         run: |
+          npm run build
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git checkout gh-pages || git checkout --orphan gh-pages  # Si la rama existe, la usa; si no, la crea
@@ -42,3 +39,9 @@ jobs:
           git push -u origin newdist
           git push origin `git subtree split --prefix dist newdist`:gh-pages --force
           git push origin --delete newdist
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist

@@ -1,10 +1,10 @@
 {
-  "name": "sena-2025",
+  "name": "SENA-2025",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
+    "build": "NODE_OPTIONS=--max-old-space-size=4096 vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
@@ -29,8 +29,10 @@
     "eslint": "^6.7.2",
     "eslint-plugin-prettier": "^3.4.1",
     "eslint-plugin-vue": "^6.2.2",
-    "node-sass": "^4.12.0",
     "prettier": "^1.19.1",
+    "pug": "^3.0.3",
+    "pug-plain-loader": "^1.1.0",
+    "sass": "^1.69.0",
     "sass-loader": "^8.0.2",
     "vue-cli-plugin-pug": "^2.0.0",
     "vue-template-compiler": "^2.7.14"

@@ -44,8 +44,8 @@
           h5 Figura 4.
           |    Componentes del sistema de comercialización
         figure(data-aos="flip-left")
-          img(src='@/assets/curso/tema5/img_5.svg', class="img-fluid d-none d-lg-block").mb-5
-          img(src='@/assets/curso/tema5/img_6.svg', class="img-fluid d-block d-lg-none").mb-5
+          img(src='@/assets/curso/tema5/img_5.svg', class="img-fluid d-none d-lg-block", alt="La figura presenta los componentes del sistema de comercialización.").mb-5
+          img(src='@/assets/curso/tema5/img_6.svg', class="img-fluid d-block d-lg-none", alt="La figura presenta los componentes del sistema de comercialización.").mb-5
           figcaption Nota. Adaptado de Kotler y Keller, (2016).
 
     .row.justify-content-center.align-items-center.mb-4

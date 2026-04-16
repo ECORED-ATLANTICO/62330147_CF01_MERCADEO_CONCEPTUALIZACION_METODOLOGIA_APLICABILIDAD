@@ -46,8 +46,8 @@
           h5 Figura 2.
           |    Elementos del direccionamiento estratégico
         figure(data-aos="flip-left")
-          img(src='@/assets/curso/tema3/img_5.svg', class="img-fluid d-none d-lg-block").mb-5
-          img(src='@/assets/curso/tema3/img_6.svg', class="img-fluid d-block d-lg-none").mb-5
+          img(src='@/assets/curso/tema3/img_5.svg', class="img-fluid d-none d-lg-block", alt="La figura presenta los diferentes elementos del direccionamiento estratégico.").mb-5
+          img(src='@/assets/curso/tema3/img_6.svg', class="img-fluid d-block d-lg-none", alt="La figura presenta los diferentes elementos del direccionamiento estratégico.").mb-5
           figcaption Nota. SENA, (2026).
 
     Separador
@@ -120,8 +120,8 @@
           h5 Figura 3.
           |    Matriz DOFA aplicada al mercado
         figure(data-aos="flip-left")
-          img(src='@/assets/curso/tema3/img_18.svg', class="img-fluid d-none d-lg-block").mb-5
-          img(src='@/assets/curso/tema3/img_19.svg', class="img-fluid d-block d-lg-none").mb-5
+          img(src='@/assets/curso/tema3/img_18.svg', class="img-fluid d-none d-lg-block",alt="La figura presenta  los componentes de la Matriz DOFA aplicada al mercado.").mb-5
+          img(src='@/assets/curso/tema3/img_19.svg', class="img-fluid d-block d-lg-none", alt="La figura presenta  los componentes de la Matriz DOFA aplicada al mercado.").mb-5
           figcaption Nota. SENA, (2026).
 
     .row.justify-content-center.align-items-center.mb-5

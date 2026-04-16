@@ -165,8 +165,8 @@
           h5 Figura 1.
           |    Tipos de fuentes de información del entorno
         figure(data-aos="flip-left")
-          img(src='@/assets/curso/tema2/img_18.svg', class="img-fluid d-none d-lg-block").mb-5
-          img(src='@/assets/curso/tema2/img_19.svg', class="img-fluid d-block d-lg-none").mb-5
+          img(src='@/assets/curso/tema2/img_18.svg', class="img-fluid d-none d-lg-block", alt="La figura muestra los tipos de fuentes de información del entorno.").mb-5
+          img(src='@/assets/curso/tema2/img_19.svg', class="img-fluid d-block d-lg-none", alt="La figura muestra los tipos de fuentes de información del entorno.").mb-5
           figcaption Nota. SENA, (2026).
 
     .row.justify-content-center.align-items-center.mb-5

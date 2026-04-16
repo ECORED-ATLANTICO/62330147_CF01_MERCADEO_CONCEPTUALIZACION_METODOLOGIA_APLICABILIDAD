@@ -31,15 +31,42 @@
       .col-4.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema1/img_3.png', class="img-fluid")
-      .col-12.col-lg-9.mb-0
-        p.mb-3(data-aos="zoom-in-right") El mercado se define como el conjunto de compradores reales y potenciales que poseen necesidades similares y capacidad de intercambio para satisfacerlas mediante bienes o servicios. Desde la perspectiva del marketing moderno, el mercado se configura a partir de la interacción entre consumidores, empresas oferentes, intermediarios, instituciones regulatorias y factores tecnológicos que facilitan el intercambio, esta interacción determina el comportamiento de precios, niveles de competencia y oportunidades de crecimiento.
-        p.mb-0(data-aos="zoom-in-right") La composición del mercado incluye tres elementos fundamentales: 
+      .col-12.col-lg-9.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        p.mb-3 El mercado se define como el conjunto de compradores reales y potenciales que poseen necesidades similares y capacidad de intercambio para satisfacerlas mediante bienes o servicios. Desde la perspectiva del marketing moderno, el mercado se configura a partir de la interacción entre consumidores, empresas oferentes, intermediarios, instituciones regulatorias y factores tecnológicos que facilitan el intercambio, esta interacción determina el comportamiento de precios, niveles de competencia y oportunidades de crecimiento.
+        p.mb-0 La composición del mercado incluye tres elementos fundamentales: 
       .col-3.col-lg-1.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema1/img_4.svg', class="img-fluid")
+      
+    .row.justify-content-center.align-items-stretch.mb-5
+      .col-12.col-md-5.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .tarjeta.color-acento-contenido-cv.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center.justify-content-center
+          .row.justify-content-center.align-items-center.mb-0
+            .col-4.col-lg-4.mb-0
+              figure
+                img(src='@/assets/curso/tema1/img_5.svg', class="img-fluid")
+            .col-12.col-lg-8.mb-0
+              h5.mb-3 Demanda
+              p.mb-0 Representada por los consumidores.
+      .col-12.col-md-7.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .tarjeta.color-acento-contenido-cv.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center.justify-content-center
+          .row.justify-content-center.align-items-center.mb-0
+            .col-3.col-lg-3.mb-0
+              figure
+                img(src='@/assets/curso/tema1/img_6.svg', class="img-fluid")
+            .col-12.col-lg-9.mb-0
+              h5.mb-3 Oferta
+              p.mb-0 Conformada por las empresas que participan en el sector.
+      .col-12.col-md-9.col-lg-5.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .tarjeta.color-acento-contenido-cv.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center.justify-content-center
+          .row.justify-content-center.align-items-center.mb-0
+            .col-3.col-lg-3.mb-0
+              figure
+                img(src='@/assets/curso/tema1/img_7.svg', class="img-fluid")
+            .col-12.col-lg-9.mb-0
+              h5.mb-3 Entorno
+              p.mb-0 Integrado por variables económicas, sociales y tecnológicas que influyen en el intercambio comercial.
 
-    /// falta cuadriculas
-          
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-10.mb-0
         .cajon.color-acento-botones.p-4(data-aos="zoom-in-right")
@@ -62,12 +89,46 @@
         figure
           img(src='@/assets/curso/tema1/img_9.png', class="img-fluid")
       .col-12.col-lg-8.mb-4
-        p.mb-0(data-aos="zoom-in-right") Por ejemplo, el mercado de telefonía móvil en muchos países presenta características de oligopolio, debido a la existencia de pocos operadores que concentran la mayor parte de la participación, esta situación obliga a las empresas a diferenciar sus servicios mediante planes, promociones y valor agregado, en lugar de competir únicamente por precio. Comprender la estructura del mercado permite a las organizaciones diseñar estrategias comerciales acordes con el nivel de competencia existente.
-      .col-12.col-lg-10.mb-0
+        p.mb-3(data-aos="zoom-in-right") Por ejemplo, el mercado de telefonía móvil en muchos países presenta características de oligopolio, debido a la existencia de pocos operadores que concentran la mayor parte de la participación, esta situación obliga a las empresas a diferenciar sus servicios mediante planes, promociones y valor agregado, en lugar de competir únicamente por precio. Comprender la estructura del mercado permite a las organizaciones diseñar estrategias comerciales acordes con el nivel de competencia existente.
         p.mb-0(data-aos="zoom-in-right") Tipos de mercado y características principales
 
-    /// falta cuadriculas
-
+    .row.justify-content-center.align-items-stretch.mb-5
+      .col-12.col-md-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .tarjeta.tarjeta--fondo-img-1.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center.justify-content-center
+          .row.justify-content-center.align-items-center.mb-3
+            .col-6.col-lg-6.mb-5
+              figure
+                img(src='@/assets/curso/tema1/img_11.svg', class="img-fluid")
+            .col-12.col-lg-12.text-center.mb-0
+              h5.mb-3 Competencia perfecta
+              p.mb-0 Muchos oferentes, productos homogéneos, libre entrada al mercado.
+      .col-12.col-md-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .tarjeta.tarjeta--fondo-img-1.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center.justify-content-center
+          .row.justify-content-center.align-items-center.mb-3
+            .col-6.col-lg-6.mb-5
+              figure
+                img(src='@/assets/curso/tema1/img_12.svg', class="img-fluid")
+            .col-12.col-lg-12.text-center.mb-0
+              h5.mb-3 Competencia monopolística
+              p.mb-0 Muchos oferentes, productos diferenciados, competencia basada en marca.
+      .col-12.col-md-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .tarjeta.tarjeta--fondo-img-1.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center.justify-content-center
+          .row.justify-content-center.align-items-center.mb-3
+            .col-6.col-lg-6.mb-5
+              figure
+                img(src='@/assets/curso/tema1/img_13.svg', class="img-fluid")
+            .col-12.col-lg-12.text-center.mb-0
+              h5.mb-3 Oligopolio
+              p.mb-0 Pocos oferentes, alta interdependencia competitiva.
+      .col-12.col-md-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .tarjeta.tarjeta--fondo-img-1.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center.justify-content-center
+          .row.justify-content-center.align-items-center.mb-3
+            .col-6.col-lg-6.mb-5
+              figure
+                img(src='@/assets/curso/tema1/img_14.svg', class="img-fluid")
+            .col-12.col-lg-12.text-center.mb-0
+              h5.mb-3 Monopolio
+              p.mb-0 Un solo oferente, control del precio.
 
     Separador
 
@@ -104,11 +165,44 @@
               img(src='@/assets/curso/tema1/img_17.svg', class="img-fluid")
           .col-12.col-lg-11.mb-0(data-aos="zoom-in-right")
             p.mb-0 Las empresas modernas emplean herramientas tecnológicas como sistemas de inteligencia de negocios, análisis estadístico y plataformas de monitoreo digital para evaluar el comportamiento del mercado. Por ejemplo, empresas de retail utilizan análisis de datos de ventas en tiempo real para ajustar inventarios y promociones, optimizando la eficiencia operativa y la satisfacción del cliente.
-      .col-8.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3
+      .col-8.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema1/img_18.png', class="img-fluid")
-
     
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-lg-10(data-aos="zoom-in-right")
+        .cita-decorada.mb-5
+          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-5
+            .row.justify-content-center.align-items-center.mb-lg-0.mb-5
+              .col-7.col-lg-5.position-relative.order-2.order-lg-1.mb-0
+                figure
+                  img(src='@/assets/curso/tema1/img_19.png', class="cita-decorada__imagen-flotante-1 d-none d-lg-block")
+                  img(src='@/assets/curso/tema1/img_20.png', class="cita-decorada__imagen-flotante-1 d-block d-lg-none")
+              .col-10.col-lg-7.order-1.order-lg-2.mb-lg-0.mb-5
+                .bloque-texto-b.cita-decorada__texto.mb-1.p-0
+                  .bloque-texto-b__texto
+                    i.fas.fa-quote-left
+                    h5.mb-0 La transparencia en el análisis de la información del mercado fortalece la integridad empresarial, porque las decisiones responsables se construyen sobre datos confiables y éticos.
+                    i.fas.fa-quote-right
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-lg-10(data-aos="zoom-in-right")
+        .cita-decorada
+          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-2.p-5
+            .row.justify-content-center.align-items-center.mb-5.mb-lg-0
+              .col-12.col-lg-8.mb-5.mb-lg-0
+                p.mb-4 Escucha el podcast
+                TarjetaAudio.color-acento-botones.mb-0(
+                  texto="<h4 class='mb-0'>xxxxx</h4>"
+                  :audio="require('@/assets/curso/tema1/img_1.png')"
+                  @audio-hover="mostrarIndicadorTarjetaAudio = true"
+                  style="border: none !important; padding: 0 !important; background: transparent !important;"
+                )
+                  .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
+              .col-5.col-lg-4.position-relative
+                figure
+                  img(src='@/assets/curso/tema1/img_25.png', class="cita-decorada__imagen-flotante-2 d-none d-lg-block")
+                  img(src='@/assets/curso/tema1/img_26.png', class="cita-decorada__imagen-flotante-2 d-block d-lg-none")
 </template>
 
 <script>

@@ -24,6 +24,13 @@
         background-color: darken($color-primario,10%)
     .spinner-border
       border-color: $color-primario
+  &.color-primario-o
+    .audio__btn
+      background-color: $color-secundario
+      &:hover
+        background-color: darken($color-secundario,10%)
+    .spinner-border
+      border-color: $color-secundario
   &.color-secundario
     .audio__btn
       background-color: $color-secundario
@@ -40,11 +47,11 @@
       border-color: $color-acento-contenido
   &.color-acento-botones
     .audio__btn
-      background-color: $color-acento-botones
+      background-color: $color-acento-contenido
       &:hover
-        background-color: darken($color-acento-botones,10%)
+        background-color: darken($color-acento-contenido,10%)
     .spinner-border
-      border-color: $color-acento-botones
+      border-color: $color-acento-contenido
   &.color-adicional-1
     .audio__btn
       background-color: $color-adicional-1
@@ -112,6 +119,23 @@
     .tarjeta-audio__tiempo
       color: $color-primario
 
+  &.color-primario-o
+    border-color: $color-primario-o
+    .tarjeta-audio__texto
+      color: $color-primario-o
+    .tarjeta-audio__input
+      input[type=range]
+        background: rgba($color-primario-o, 0.2)
+        background-image: linear-gradient($color-primario-o, $color-primario-o)
+        &::-webkit-slider-runnable-track
+          background: rgba($color-primario-o, 0.2)
+        &::-webkit-slider-thumb
+          background-color: $color-primario-o
+        &::-moz-range-thumb
+          background-color: $color-primario-o
+    .tarjeta-audio__tiempo
+      color: $color-primario
+
   &.color-secundario
     border-color: $color-secundario
     .tarjeta-audio__texto
@@ -153,12 +177,12 @@
     .tarjeta-audio__input
       input[type=range]
         background: rgba($color-acento-botones, 0.2)
+        background-image: linear-gradient($color-acento-botones, $color-acento-botones)
         &::-webkit-slider-runnable-track
           background: rgba($color-acento-botones, 0.2)
         &::-webkit-slider-thumb
           background-color: $color-acento-botones
         &::-moz-range-thumb
           background-color: $color-acento-botones
-          background-image: linear-gradient($color-acento-botones, $color-acento-botones)
     .tarjeta-audio__tiempo
-      color: $color-acento-botones
+      color: $color-acento-contenido

@@ -36,46 +36,79 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Fundamentos del mercado',
         desarrolloContenidos: true,
         subMenu: [
+          { numero: '1.1', titulo: 'Concepto', hash: 't_1_1' },
+          { numero: '1.2', titulo: 'Estructura y tipos', hash: 't_1_2' },
           {
-            numero: '1.1',
-            titulo: 'Subtema 1',
-            hash: 't_1_1',
+            numero: '1.3',
+            titulo: 'Mercado, empresa y consumidor',
+            hash: 't_1_3',
           },
+          { numero: '1.4', titulo: 'Análisis de información', hash: 't_1_4' },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Entorno organizacional',
         desarrolloContenidos: true,
+        subMenu: [
+          { numero: '2.1', titulo: 'Macroentorno', hash: 't_2_1' },
+          { numero: '2.2', titulo: 'Microentorno', hash: 't_2_2' },
+          { numero: '2.3', titulo: 'Decisiones comerciales', hash: 't_2_3' },
+          { numero: '2.4', titulo: 'Fuentes de información', hash: 't_2_4' },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Diagnóstico',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Direccionamiento estratégico',
+            hash: 't_3_1',
+          },
+          { numero: '3.2', titulo: 'Concepto y propósito', hash: 't_3_2' },
+          { numero: '3.3', titulo: 'Técnicas de análisis', hash: 't_3_3' },
+          { numero: '3.4', titulo: 'Análisis DOFA', hash: 't_3_4' },
+        ],
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Tema 4',
+        titulo: 'Segmentación',
         desarrolloContenidos: true,
+        subMenu: [
+          { numero: '4.1', titulo: 'Concepto y objetivos', hash: 't_4_1' },
+          { numero: '4.2', titulo: 'Variables', hash: 't_4_2' },
+          { numero: '4.3', titulo: 'Técnicas', hash: 't_4_3' },
+          { numero: '4.4', titulo: 'Selección del mercado', hash: 't_4_4' },
+        ],
       },
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Tema 5',
+        titulo: 'Comercialización y distribución',
         desarrolloContenidos: true,
+        subMenu: [
+          { numero: '5.1', titulo: 'Estructura', hash: 't_5_1' },
+          { numero: '5.2', titulo: 'Canales de distribución', hash: 't_5_2' },
+        ],
       },
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'Tema 6',
+        titulo: 'Integración',
         desarrolloContenidos: true,
+        subMenu: [
+          { numero: '6.1', titulo: 'Entorno y segmentación', hash: 't_6_1' },
+          { numero: '6.2', titulo: 'Diagnóstico', hash: 't_6_2' },
+          { numero: '6.3', titulo: 'Informes', hash: 't_6_3' },
+        ],
       },
     ],
     subMenu: [
@@ -96,11 +129,13 @@ export default {
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
+      /*
       {
         nombreRuta: 'complementario',
         icono: 'far fa-folder-open',
         titulo: 'Material complementario',
       },
+      */
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
@@ -109,7 +144,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/sintesis.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -123,6 +158,7 @@ export default {
       },
     ],
   },
+  /*
   complementario: [
     {
       tema: '',
@@ -131,16 +167,76 @@ export default {
       link: '',
     },
   ],
+  */
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: '<em>Benchmarking</em>',
+      significado:
+        'Comparación de procesos empresariales con líderes del sector para mejorar desempeño.',
+    },
+    {
+      termino: 'Canal de distribución',
+      significado:
+        'Ruta mediante la cual el producto llega al consumidor final.',
+    },
+    {
+      termino: 'Diagnóstico estratégico',
+      significado:
+        'Análisis de factores internos y externos que afectan la competitividad organizacional.',
+    },
+    {
+      termino: 'Entorno empresarial',
+      significado:
+        'Conjunto de factores externos que influyen en el desempeño de la organización.',
+    },
+    {
+      termino: 'Matriz DOFA',
+      significado:
+        'Herramienta que analiza fortalezas, oportunidades, debilidades y amenazas organizacionales.',
+    },
+    {
+      termino: 'Mercado objetivo',
+      significado:
+        'Segmento seleccionado por la empresa para dirigir sus estrategias comerciales.',
+    },
+    {
+      termino: 'Mercado potencial',
+      significado:
+        'Conjunto de consumidores con capacidad y disposición de compra.',
+    },
+    {
+      termino: 'Segmentación',
+      significado:
+        'Proceso de dividir el mercado en grupos homogéneos de consumidores con características y necesidades similares.',
+    },
+    {
+      termino: 'Sistema de comercialización',
+      significado:
+        'Conjunto de actores y procesos involucrados en la distribución de productos.',
+    },
+    {
+      termino: 'Variable demográfica',
+      significado:
+        'Característica poblacional como edad, género o ingreso utilizada en segmentación.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Kotler, P., & Armstrong, G. (2017). <em>Segmentación, mercado meta y posicionamiento</em>. Pearson.',
+      link:
+        'https://revistas.uap.edu.pe/ojs/index.php/CYD/article/view/2846/2838?utm_source',
+    },
+    {
+      referencia:
+        'KUniversidad Nacional Autónoma de México. (2020). <em>El entorno del marketing</em>. UNAM ',
+      link:
+        'https://www.turisme.gva.es/ojs/index.php/Papers/article/view/205/172',
+    },
+    {
+      referencia:
+        'Quiroa, M. (s. f.). <em>Análisis DAFO: qué es y cómo puede ayudarte a triunfar</em>. Economipedia.',
+      link: 'https://economipedia.com/definiciones/analisis-dafo.html',
     },
   ],
   creditos: [
@@ -148,14 +244,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Miguel de Jesús Paredes Maestre',
+          cargo: 'Responsable de la línea de producción',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -163,9 +260,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Nicolas Cruz Ríos',
+          cargo: 'Experto Temático',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Jair Coll Gallardo',
+          cargo: 'Evaluador Instruccional',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -173,19 +275,24 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Carmen Alicia Martínez Torres',
+          cargo: 'Diseñador web',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Alexander Donado Molinares',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Alexander Rafael Acosta Bedoya',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Nelson Iván Vera Briceño',
+          cargo: 'Animador y productor audiovisual',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -193,14 +300,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Luz Karime Amaya Cabra',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Laura Daniela Burgos Rueda',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Jonathan Adié Villafañe',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Karine Isabel Ospino Fritz',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },

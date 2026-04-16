@@ -135,7 +135,7 @@
 
     Separador
 
-    #t_2_3.titulo-segundo.color-acento-contenido
+    #t_2_4.titulo-segundo.color-acento-contenido
       .h2(data-aos="fade-right") 2.4 Decisiones comerciales
     .mb-0 
 

@@ -33,6 +33,25 @@
       background-color: $white
       color: textColor(lighten($color-sistema-h, 50%))
       border: solid 4px $color-sistema-h
+  &--fondo-img-2
+    background-image: url(../assets/curso/tema6/img_6.png) !important
+    border-radius: 20px
+    padding: 12rem 3rem 2rem 3rem
+    position: relative
+    display: flex
+    flex-direction: column
+    overflow: hidden 
+    background-repeat: no-repeat
+    background-size: cover 
+    background-position: center
+    overflow: hidden 
+    pointer-events: none
+    *
+      color: textColor($color-sistema-h)
+    &--borde
+      background-color: $white
+      color: textColor(lighten($color-sistema-h, 50%))
+      border: solid 4px $color-sistema-h
 
   &--gris
     background-color: $color-sistema-h
@@ -285,7 +304,25 @@
 
   &--01::before
     position: absolute
-    content: url('../assets/curso/tema1/img_2.svg')
+    content: url('../assets/curso/tema6/img_7.svg')
+    top: 60px
+    left: 50%
+    transform: translateX(-50%)
+  &--02::before
+    position: absolute
+    content: url('../assets/curso/tema6/img_8.svg')
+    top: 60px
+    left: 50%
+    transform: translateX(-50%)
+  &--03::before
+    position: absolute
+    content: url('../assets/curso/tema6/img_9.svg')
+    top: 60px
+    left: 50%
+    transform: translateX(-50%)
+  &--04::before
+    position: absolute
+    content: url('../assets/curso/tema6/img_10.svg')
     top: 60px
     left: 50%
     transform: translateX(-50%)

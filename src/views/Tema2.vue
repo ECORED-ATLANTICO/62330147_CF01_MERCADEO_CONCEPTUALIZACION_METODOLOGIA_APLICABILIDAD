@@ -170,14 +170,14 @@
           figcaption Nota. SENA, (2026).
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-10(data-aos="zoom-in-right")
+      .col-12.col-lg-9(data-aos="zoom-in-right")
         .cita-decorada.mb-5
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-5
             .row.justify-content-center.align-items-center.mb-lg-0.mb-5
-              .col-7.col-lg-5.position-relative.order-2.order-lg-1.mb-0
+              .col-7.col-lg-4.position-relative.order-2.order-lg-1.mb-0
                 figure
                   img(src='@/assets/curso/tema2/img_20.png', class="cita-decorada__imagen-flotante-3")
-              .col-10.col-lg-7.order-1.order-lg-2.mb-lg-0.mb-5
+              .col-10.col-lg-8.order-1.order-lg-2.mb-lg-0.mb-5
                 .bloque-texto-b.cita-decorada__texto.mb-1.p-0
                   .bloque-texto-b__texto
                     i.fas.fa-quote-left

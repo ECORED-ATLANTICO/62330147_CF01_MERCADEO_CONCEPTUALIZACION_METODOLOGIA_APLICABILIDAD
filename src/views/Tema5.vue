@@ -80,7 +80,42 @@
       .subtitulo-destacado__fondo
         h4.subtitulo-destacado__texto Tipos de canales de distribución
 
-    //// falta slider
+    br
+    br
+    br
+
+    .bg_img_1.mb-3
+      
+      SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-5.mb-5
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-5.order-2.order-lg-1.mb-0
+            h5 Canal directo
+            p.mb-0 Venta sin intermediarios entre productor y consumidor.
+            p.mb-0 Ejemplo: comercio electrónico propio.
+
+          .col-12.col-lg-6.order-1.order-lg-2.mb-lg-0.mb-3
+            figure
+              img(src='@/assets/curso/tema5/img_11.png', class="img-fluid")
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-5.order-2.order-lg-1.mb-0
+            h5 Canal indirecto corto
+            p.mb-0 Incluye un intermediario minorista. 
+            p.mb-0 Ejemplo: tiendas especializadas.
+          .col-12.col-lg-6.order-1.order-lg-2.mb-lg-0.mb-3
+            figure
+              img(src='@/assets/curso/tema5/img_12.png', class="img-fluid")
+        .row.justify-content-center.align-items-center
+          .col-12.col-lg-5.order-2.order-lg-1.mb-0
+            h5 Canal indirecto largo
+            p.mb-0 Participan mayoristas y minoristas.
+            p.mb-0 Ejemplo: distribución de productos de consumo masivo.
+          .col-12.col-lg-6.order-1.order-lg-2.mb-lg-0.mb-3
+            figure
+              img(src='@/assets/curso/tema5/img_13.png', class="img-fluid")
+
+    br
+    br
+    br
 
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-12.col-lg-10.mb-5

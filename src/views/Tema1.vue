@@ -170,7 +170,7 @@
           img(src='@/assets/curso/tema1/img_18.png', class="img-fluid")
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-10(data-aos="zoom-in-right")
+      .col-12.col-lg-9(data-aos="zoom-in-right")
         .cita-decorada.mb-5
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-5
             .row.justify-content-center.align-items-center.mb-lg-0.mb-5

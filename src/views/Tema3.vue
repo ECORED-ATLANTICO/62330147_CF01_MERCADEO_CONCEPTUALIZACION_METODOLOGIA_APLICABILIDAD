@@ -84,10 +84,29 @@
         p.mb-3(data-aos="zoom-in-right") Las técnicas de análisis de información comprenden los métodos utilizados para recopilar, organizar e interpretar datos relevantes del mercado. Entre las principales técnicas se encuentran el análisis estadístico, el análisis comparativo, los estudios de mercado, el análisis de tendencias y el benchmarking competitivo (Kotler & Keller, 2016).
         p.mb-0(data-aos="zoom-in-right") Técnicas de análisis de información y sus características
 
-
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-8.mb-4(data-aos="zoom-in-right")
-        /// flujo 
+        TabsA.color-acento-botones.mb-3
+          .tarjeta.color-primario-cv.p-4(titulo="Análisis estadístico")
+            figure.d-flex.justify-content-end.mb-3(data-aos="zoom-in-right")
+                img(src='@/assets/curso/tema3/img_10.svg', class="img-fluid col-4 col-lg-2")
+            p.mb-0(data-aos="zoom-in-right") Utiliza métodos cuantitativos para organizar, resumir e interpretar datos numéricos; permite identificar patrones, promedios, tendencias y variaciones del mercado.
+          .tarjeta.color-primario-cv.p-4(titulo="Análisis comparativo")
+            figure.d-flex.justify-content-end.mb-3(data-aos="zoom-in-right")
+                img(src='@/assets/curso/tema3/img_11.svg', class="img-fluid col-4 col-lg-2")
+            p.mb-0(data-aos="zoom-in-right") Consiste en comparar información de diferentes periodos, empresas o mercados para identificar diferencias de desempeño, ventajas competitivas y oportunidades de mejora.
+          .tarjeta.color-primario-cv.p-4(titulo="Estudios de mercado")
+            figure.d-flex.justify-content-end.mb-3(data-aos="zoom-in-right")
+                img(src='@/assets/curso/tema3/img_12.svg', class="img-fluid col-4 col-lg-2")
+            p.mb-0(data-aos="zoom-in-right") Procesos sistemáticos de recolección y análisis de información sobre consumidores, competencia y entorno; incluyen encuestas, entrevistas y observación.
+          .tarjeta.color-primario-cv.p-4(titulo="Análisis de tendencias")
+            figure.d-flex.justify-content-end.mb-3(data-aos="zoom-in-right")
+                img(src='@/assets/curso/tema3/img_13.svg', class="img-fluid col-4 col-lg-2")
+            p.mb-0(data-aos="zoom-in-right") Examina cambios históricos en variables del mercado para proyectar comportamientos futuros del consumidor, la demanda o el sector económico.
+          .tarjeta.color-primario-cv.p-4(titulo="Benchmarking competitivo")
+            figure.d-flex.justify-content-end.mb-3(data-aos="zoom-in-right")
+                img(src='@/assets/curso/tema3/img_14.svg', class="img-fluid col-4 col-lg-2")
+            p.mb-0(data-aos="zoom-in-right") Evalúa prácticas, procesos y resultados de empresas líderes del sector con el fin de adoptar mejores prácticas que mejoren la competitividad organizacional.
       .col-12.col-lg-4.mb-4(data-aos="zoom-in-right")
         .col-6.col-lg-3.mb-3(data-aos="zoom-in-right")
           figure
@@ -125,7 +144,7 @@
           figcaption Nota. SENA, (2026).
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-10(data-aos="zoom-in-right")
+      .col-12.col-lg-9(data-aos="zoom-in-right")
         .cita-decorada.mb-5
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-5
             .row.justify-content-center.align-items-center.mb-lg-0.mb-5

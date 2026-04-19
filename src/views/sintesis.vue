@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .row.justify-content-center.align-items-center.mb-0
-      .col-4.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-4.col-lg-2.d-none.d-lg-block.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/sintesis/img_1.png', class="img-fluid")
       .col-12.col-lg-10.mb-0

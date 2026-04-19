@@ -15,7 +15,7 @@
         p.mb-0 Comprender el mercado es el punto de partida de cualquier decisión estratégica en marketing y gestión empresarial, las organizaciones operan en entornos dinámicos donde la oferta, la demanda, los competidores y los consumidores interactúan permanentemente, generando oportunidades y riesgos que deben ser analizados de manera sistemática. Según Kotler y Keller (2016), el mercado no debe entenderse únicamente como un lugar físico de intercambio, sino como un conjunto de relaciones económicas, sociales y tecnológicas que determinan el comportamiento de compra.
 
     .row.justify-content-center.align-items-center.mb-3
-      .col-3.col-lg-1.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-3.col-lg-1.mb-3.mb-lg-0.d-none.d-lg-block(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema1/img_2.svg', class="img-fluid")
       .col-12.col-lg-9.mb-0
@@ -28,13 +28,13 @@
     .mb-0 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-4.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-4.col-md-6.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema1/img_3.png', class="img-fluid")
       .col-12.col-lg-9.mb-3.mb-lg-0(data-aos="zoom-in-right")
         p.mb-3 El mercado se define como el conjunto de compradores reales y potenciales que poseen necesidades similares y capacidad de intercambio para satisfacerlas mediante bienes o servicios. Desde la perspectiva del marketing moderno, el mercado se configura a partir de la interacción entre consumidores, empresas oferentes, intermediarios, instituciones regulatorias y factores tecnológicos que facilitan el intercambio, esta interacción determina el comportamiento de precios, niveles de competencia y oportunidades de crecimiento.
         p.mb-0 La composición del mercado incluye tres elementos fundamentales: 
-      .col-3.col-lg-1.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-3.col-lg-1.mb-3.mb-lg-0.d-none.d-lg-block(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema1/img_4.svg', class="img-fluid")
       
@@ -85,7 +85,7 @@
         p.mb-0 La estructura del mercado se refiere a la forma en que se organizan las empresas dentro de un sector y al nivel de competencia existente. De acuerdo con Mankiw (2021), los mercados pueden clasificarse en competencia perfecta, competencia monopolística, oligopolio y monopolio, dependiendo del número de participantes y del grado de control sobre los precios. Cada tipo de mercado presenta características específicas que determinan las estrategias comerciales de las organizaciones.
 
     .row.justify-content-center.align-items-center.mb-3
-      .col-4.col-lg-2.mb-4(data-aos="zoom-in-right")
+      .col-4.col-lg-2.d-none.d-lg-blockmb-4(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema1/img_9.png', class="img-fluid")
       .col-12.col-lg-8.mb-4
@@ -144,9 +144,9 @@
         p.mb-3(data-aos="zoom-in-right") La empresa actúa como agente transformador que identifica necesidades del consumidor y desarrolla propuestas de valor que permitan satisfacerlas de manera rentable; el consumidor, por su parte, evalúa alternativas disponibles considerando factores económicos, sociales y psicológicos antes de realizar la compra. Esta relación bidireccional implica que las organizaciones deben monitorear continuamente los cambios en preferencias y comportamientos de consumo.
         .tarjeta.color-acento-contenido-cv.p-4.rounded-3.mb-0(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0
-            .col-12.col-lg-11.order-2.order-lg-1(data-aos="zoom-in-right")
+            .col-12.col-lg-11(data-aos="zoom-in-right")
               p.mb-0 Un ejemplo empresarial se observa en las cadenas de supermercados que analizan constantemente los hábitos de compra de sus clientes mediante sistemas de información, permitiendo ajustar la oferta de productos, promociones y distribución en los puntos de venta. Este proceso demuestra cómo la interacción entre mercado, empresa y consumidor se convierte en una fuente estratégica de información para la toma de decisiones.
-            .col-3.col-lg-1.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+            .col-3.col-lg-1.d-none.d-lg-block.mb-3.mb-lg-0(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema1/img_16.svg', class="img-fluid")
 

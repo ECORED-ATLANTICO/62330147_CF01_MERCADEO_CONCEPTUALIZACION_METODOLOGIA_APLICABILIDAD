@@ -14,10 +14,10 @@
       .col-12.col-lg-9.mb-0
         p.mb-3(data-aos="zoom-in-right") El entorno organizacional se define como el conjunto de factores externos que influyen directa o indirectamente en el funcionamiento de la empresa y en su desempeño competitivo; estos factores condicionan las oportunidades de crecimiento, los riesgos del mercado y las decisiones estratégicas relacionadas con productos, precios, distribución y comunicación (Daft, 2020).
         .row.justify-content-center.align-items-center.mb-3
-          .col-12.col-lg-11.order-2.order-lg-1(data-aos="zoom-in-right")
+          .col-12.col-lg-11(data-aos="zoom-in-right")
             .tarjeta.color-acento-botones-cv.p-4.rounded-3.mb-0(data-aos="zoom-in-right")
               p.mb-0 Por ejemplo, cambios en la legislación tributaria pueden modificar los costos operativos de las empresas, mientras que el desarrollo de nuevas tecnologías puede generar oportunidades para la innovación de productos y servicios. La capacidad de adaptación a estas condiciones externas determina en gran medida la sostenibilidad empresarial.
-          .col-3.col-lg-1.order-1.order-lg-2.mb-3.mb-lg-0.p-0(data-aos="zoom-in-right")
+          .col-3.col-lg-1.d-none.d-lg-block.mb-3.mb-lg-0.p-0(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema2/img_2.svg', class="img-fluid")
         p.mb-3(data-aos="zoom-in-right") En este capítulo se estudiarán las principales variables del entorno empresarial, diferenciando entre el macroentorno y el microentorno, así como su impacto en el comportamiento del mercado y en la competitividad de las organizaciones.
@@ -31,9 +31,6 @@
     .tarjeta--bg-img.color-acento-contenido-cv.rounded-3.p-0.mb-5.overflow-hidden(data-aos="fade-right")
       .row.justify-content-center.align-items-center.mb-0.h-100
         .col-12.col-lg-7.p-5
-          .col-4.col-lg-2.mb-3(data-aos="zoom-in-right")
-            figure
-              img(src='@/assets/curso/tema2/img_3.svg', class="img-fluid")
           p.mb-4 El macroentorno está compuesto por factores externos que afectan a todas las organizaciones de una economía y que generalmente no pueden ser controlados por las empresas, entre los principales componentes del macroentorno se encuentran los factores económicos, demográficos, tecnológicos, socioculturales, políticos y ambientales.
           p.mb-0 Por ejemplo, el crecimiento del comercio digital ha sido impulsado por avances tecnológicos y cambios en los hábitos de consumo, obligando a las empresas tradicionales a incorporar plataformas de comercio electrónico para mantener su competitividad. El análisis del macroentorno permite anticipar tendencias y preparar estrategias de adaptación.
         .col-12.col-lg-5.mb-lg-0.mb-3.p-0.align-self-stretch.d-none.d-lg-block
@@ -127,7 +124,7 @@
       .col-12.col-lg-8.mb-0 
         p.mb-3(data-aos="zoom-in-right") El análisis sistemático del entorno permite a las organizaciones identificar oportunidades de mercado, anticipar amenazas competitivas y diseñar estrategias coherentes con las condiciones externas. Herramientas como el análisis PESTEL y el análisis de las cinco fuerzas de Porter facilitan la evaluación estructurada de factores externos relevantes.
         .row.justify-content-center.align-items-center.mb-0
-          .col-4.col-lg-1.mb-3.mb-lg-0.p-1(data-aos="zoom-in-right")
+          .col-4.col-lg-1.d-none.d-lg-block.mb-3.mb-lg-0.p-1(data-aos="zoom-in-right")
             figure
               img(src='@/assets/curso/tema2/img_14.svg', class="img-fluid")
           .col-12.col-lg-11.mb-0
@@ -144,7 +141,7 @@
         p.mb-3(data-aos="zoom-in-right") Las fuentes de información del entorno corresponden a los mecanismos mediante los cuales la empresa obtiene datos relevantes sobre las condiciones económicas, sociales, tecnológicas, competitivas y legales del mercado; estas fuentes permiten sustentar el diagnóstico estratégico y reducir la incertidumbre en la toma de decisiones empresariales (Malhotra, 2019).
         .tarjeta.color-acento-botones-cv.p-4.rounded-3.mb-0(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0
-            .col-3.col-lg-1.mb-3.mb-lg-0(data-aos="zoom-in-right")
+            .col-3.col-lg-1.d-none.d-lg-block.mb-3.mb-lg-0(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema2/img_15.svg', class="img-fluid")
             .col-12.col-lg-11(data-aos="zoom-in-right")

@@ -14,7 +14,7 @@
         p.mb-0 El diagnóstico estratégico de mercado constituye una herramienta fundamental para comprender la posición competitiva de la organización dentro de su entorno, a través del análisis sistemático de información interna y externa, las empresas pueden identificar oportunidades de crecimiento, riesgos potenciales y capacidades organizacionales que determinan su desempeño comercial, este proceso permite tomar decisiones estratégicas sustentadas en evidencia y no únicamente en percepciones.
 
     .row.justify-content-center.align-items-center.mb-0
-      .col-4.col-lg-1.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-4.col-lg-1.d-none.d-lg-block.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema3/img_2.svg', class="img-fluid")
       .col-12.col-lg-11.mb-0
@@ -64,9 +64,9 @@
         p.mb-3(data-aos="zoom-in-right") El diagnóstico estratégico es el proceso mediante el cual la organización analiza su situación interna y externa para identificar fortalezas, debilidades, oportunidades y amenazas que afectan su competitividad. Su propósito principal es proporcionar información relevante que permita formular estrategias empresariales sostenibles.
         .tarjeta.color-acento-botones-cv.p-4.rounded-3.mb-0(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0
-            .col-12.col-lg-11.order-2.order-lg-1(data-aos="zoom-in-right")
+            .col-12.col-lg-11(data-aos="zoom-in-right")
               p.mb-0 La aplicación del diagnóstico estratégico facilita la comprensión de factores como la capacidad productiva, la situación financiera, la posición en el mercado y la evolución del entorno competitivo. En el ámbito comercial, esta herramienta permite identificar segmentos de mercado con mayor potencial, evaluar el posicionamiento frente a la competencia y determinar acciones estratégicas que favorezcan el crecimiento empresarial.
-            .col-3.col-lg-1.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+            .col-3.col-lg-1.d-none.d-lg-block.mb-3.mb-lg-0(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema3/img_8.svg', class="img-fluid")
 
@@ -77,7 +77,7 @@
     .mb-0 
 
     .row.justify-content-center.align-items-center.mb-3
-      .col-4.col-lg-2.mb-4(data-aos="zoom-in-right")
+      .col-4.col-lg-2.d-none.d-lg-block.mb-4(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema3/img_9.png', class="img-fluid")
       .col-12.col-lg-10.mb-4
@@ -89,26 +89,26 @@
         TabsA.color-acento-botones.mb-3
           .tarjeta.color-primario-cv.p-4(titulo="Análisis estadístico")
             figure.d-flex.justify-content-end.mb-3(data-aos="zoom-in-right")
-                img(src='@/assets/curso/tema3/img_10.svg', class="img-fluid col-4 col-lg-2")
+                img(src='@/assets/curso/tema3/img_10.svg', class="img-fluid col-1 col-lg-2")
             p.mb-0(data-aos="zoom-in-right") Utiliza métodos cuantitativos para organizar, resumir e interpretar datos numéricos; permite identificar patrones, promedios, tendencias y variaciones del mercado.
           .tarjeta.color-primario-cv.p-4(titulo="Análisis comparativo")
             figure.d-flex.justify-content-end.mb-3(data-aos="zoom-in-right")
-                img(src='@/assets/curso/tema3/img_11.svg', class="img-fluid col-4 col-lg-2")
+                img(src='@/assets/curso/tema3/img_11.svg', class="img-fluid col-1 col-lg-2")
             p.mb-0(data-aos="zoom-in-right") Consiste en comparar información de diferentes periodos, empresas o mercados para identificar diferencias de desempeño, ventajas competitivas y oportunidades de mejora.
           .tarjeta.color-primario-cv.p-4(titulo="Estudios de mercado")
             figure.d-flex.justify-content-end.mb-3(data-aos="zoom-in-right")
-                img(src='@/assets/curso/tema3/img_12.svg', class="img-fluid col-4 col-lg-2")
+                img(src='@/assets/curso/tema3/img_12.svg', class="img-fluid col-1 col-lg-2")
             p.mb-0(data-aos="zoom-in-right") Procesos sistemáticos de recolección y análisis de información sobre consumidores, competencia y entorno; incluyen encuestas, entrevistas y observación.
           .tarjeta.color-primario-cv.p-4(titulo="Análisis de tendencias")
             figure.d-flex.justify-content-end.mb-3(data-aos="zoom-in-right")
-                img(src='@/assets/curso/tema3/img_13.svg', class="img-fluid col-4 col-lg-2")
+                img(src='@/assets/curso/tema3/img_13.svg', class="img-fluid col-1 col-lg-2")
             p.mb-0(data-aos="zoom-in-right") Examina cambios históricos en variables del mercado para proyectar comportamientos futuros del consumidor, la demanda o el sector económico.
           .tarjeta.color-primario-cv.p-4(titulo="Benchmarking competitivo")
             figure.d-flex.justify-content-end.mb-3(data-aos="zoom-in-right")
-                img(src='@/assets/curso/tema3/img_14.svg', class="img-fluid col-4 col-lg-2")
+                img(src='@/assets/curso/tema3/img_14.svg', class="img-fluid col-1 col-lg-2")
             p.mb-0(data-aos="zoom-in-right") Evalúa prácticas, procesos y resultados de empresas líderes del sector con el fin de adoptar mejores prácticas que mejoren la competitividad organizacional.
       .col-12.col-lg-4.mb-4(data-aos="zoom-in-right")
-        .col-6.col-lg-3.mb-3(data-aos="zoom-in-right")
+        .col-6.col-lg-3.d-none.d-lg-block.mb-3(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema3/img_15.svg', class="img-fluid")
         p.mb-4 El uso adecuado de estas técnicas permite convertir datos en conocimiento estratégico útil para la toma de decisiones empresariales. Por ejemplo, el análisis de tendencias de consumo permite anticipar cambios en las preferencias de los clientes, mientras que el benchmarking facilita comparar el desempeño de la empresa con el de sus competidores, identificando oportunidades de mejora en productos, procesos y servicios.
@@ -127,7 +127,7 @@
         p.mb-0 El análisis DOFA es una herramienta estratégica que permite evaluar la situación de la empresa mediante la identificación de fortalezas y debilidades internas, así como oportunidades y amenazas externas que influyen en el mercado (Ponce, 2006). Este análisis facilita la formulación de estrategias que aprovechen las capacidades organizacionales y minimicen los riesgos competitivos.
 
     .row.justify-content-center.align-items-center.mb-3
-      .col-3.col-lg-1.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-3.col-lg-1.d-none.d-lg-block.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema3/img_17.svg', class="img-fluid")
       .col-12.col-lg-9.mb-0

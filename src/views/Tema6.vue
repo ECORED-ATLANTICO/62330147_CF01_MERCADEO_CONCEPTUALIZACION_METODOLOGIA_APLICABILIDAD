@@ -14,7 +14,7 @@
         p.mb-0 El diagnóstico del entorno y la segmentación del mercado constituyen procesos complementarios dentro de la planeación estratégica de mercadeo. Mientras el diagnóstico permite comprender las condiciones internas y externas que afectan a la organización, la segmentación facilita la identificación de los grupos de consumidores con mayor potencial para el desarrollo de estrategias comerciales efectivas, la integración de ambos procesos garantiza decisiones estratégicas coherentes con la realidad del mercado.
     
     .row.justify-content-center.align-items-center.mb-0
-      .col-3.col-lg-1.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-3.col-lg-1.d-none.d-lg-block.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema6/img_2.svg', class="img-fluid")
       .col-12.col-lg-11(data-aos="zoom-in-right")
@@ -103,7 +103,7 @@
         p.mb-3(data-aos="zoom-in-right") La elaboración adecuada del informe facilita la toma de decisiones organizacionales y permite que las diferentes áreas de la empresa comprendan las oportunidades identificadas en el mercado. 
         .tarjeta--bg-img.color-acento-botones-cv.rounded-3.overflow-hidden(data-aos="fade-right")
           .row.align-items-center.mb-0
-            .col-8.col-md-4.col-lg-2.mx-auto.text-center.p-5
+            .col-8.col-md-4.col-lg-2.mx-auto.text-center.p-5.p-md-5.p-lg-4
               figure.m-0
                 img(src="@/assets/curso/tema6/img_13.svg")
             .col-12.col-md-8.col-lg-10.p-4

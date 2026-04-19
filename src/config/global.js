@@ -144,7 +144,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/sintesis.pdf',
+        download: 'downloads/PDF.pdf',
       },
       {
         icono: 'fas fa-download',

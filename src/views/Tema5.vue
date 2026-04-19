@@ -13,9 +13,6 @@
           figure.p-0.m-0.h-100
             img(src="@/assets/curso/tema5/img_1.png" class="img-fluid w-100 h-100 object-fit-cover").p-0
         .col-12.col-lg-7.p-5
-          .col-4.col-lg-2.mb-3(data-aos="zoom-in-right")
-            figure
-              img(src='@/assets/curso/tema5/img_2.svg', class="img-fluid")
           p.mb-3 Los sistemas de comercialización y distribución representan el conjunto de actividades mediante las cuales los productos y servicios llegan desde el productor hasta el consumidor final, la eficiencia en estos procesos influye directamente en la competitividad empresarial, ya que determina factores como disponibilidad del producto, tiempos de entrega, costos logísticos y niveles de satisfacción del cliente.
           p.mb-0 Comprender la estructura de los sistemas de comercialización y los diferentes canales de distribución permite a las organizaciones diseñar estrategias que optimicen la cobertura del mercado y fortalezcan su posicionamiento competitivo. En mercados globalizados, la adecuada gestión de la distribución se convierte en un elemento estratégico clave para alcanzar ventajas sostenibles frente a la competencia.
 
@@ -29,7 +26,7 @@
       .col-12.col-lg-8.order-2.order-lg-1
         p.mb-3(data-aos="zoom-in-right") La estructura de los sistemas de comercialización corresponde al conjunto organizado de actores, procesos y actividades que participan en la transferencia de productos desde el productor hasta el consumidor final, incluyendo fabricantes, intermediarios, distribuidores, mayoristas y minoristas (Kotler & Keller, 2016). Esta estructura permite coordinar funciones logísticas, comerciales y de servicio que facilitan la circulación eficiente de bienes dentro del mercado, garantizando disponibilidad, oportunidad de entrega y condiciones adecuadas de comercialización.
         .row.justify-content-center.align-items-center.mb-0
-          .col-2.col-lg-2.mb-3.mb-lg-0.p-3(data-aos="zoom-in-right")
+          .col-2.col-lg-2.d-none.d-lg-block.mb-3.mb-lg-0.p-3(data-aos="zoom-in-right")
             figure
               img(src='@/assets/curso/tema5/img_3.svg', class="img-fluid")
           .col-12.col-lg-10(data-aos="zoom-in-right")
@@ -49,7 +46,7 @@
           figcaption Nota. Adaptado de Kotler y Keller, (2016).
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-4.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-6.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema5/img_7.png', class="img-fluid")
       .col-12.col-lg-10(data-aos="zoom-in-right")
@@ -69,7 +66,7 @@
     .mb-0 
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-4.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-6.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema5/img_9.png', class="img-fluid")
       .col-12.col-lg-10(data-aos="zoom-in-right")
@@ -121,7 +118,7 @@
       .col-12.col-lg-10.mb-5
         .tarjeta--bg-img.color-acento-botones-cv.rounded-3.overflow-hidden
           .row.align-items-center.mb-0
-            .col-8.col-md-4.col-lg-2.mx-auto.text-center.p-5
+            .col-8.col-md-4.col-lg-2.mx-auto.text-center.p-5.p-md-5.p-lg-4
               figure.m-0
                 img(src="@/assets/curso/tema4/img_19.svg")
             .col-12.col-md-8.col-lg-10.p-4

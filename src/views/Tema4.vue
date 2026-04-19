@@ -35,10 +35,10 @@
         p.mb-0 La segmentación de mercados se define como el proceso mediante el cual el mercado total se divide en grupos homogéneos de consumidores que comparten características similares en cuanto a necesidades, preferencias o comportamientos de compra (Kotler & Keller, 2016). Este proceso permite que las empresas comprendan con mayor precisión a sus clientes potenciales y diseñen estrategias de marketing diferenciadas que respondan a las particularidades de cada segmento.
 
     p.mb-3(data-aos="zoom-in-right") Entre los principales objetivos de la segmentación se encuentran identificar oportunidades de mercado, optimizar la asignación de recursos comerciales, mejorar el posicionamiento de los productos y aumentar la satisfacción del cliente mediante ofertas adaptadas a sus necesidades específicas. Por ejemplo, una empresa de tecnología puede segmentar su mercado en estudiantes, profesionales y empresas corporativas, diseñando propuestas de valor distintas para cada grupo con el fin de mejorar su competitividad.
-    p.mb-3(data-aos="zoom-in-right") Objetivos de la segmentación de mercados
+    p.mb-5(data-aos="zoom-in-right") Objetivos de la segmentación de mercados
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-8.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-8.col-lg-3.mb-5.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema4/img_4.png', class="img-fluid")
       .col-12.col-lg-9.mb-0
@@ -94,9 +94,9 @@
         p.mb-3(data-aos="zoom-in-right") Las variables de segmentación corresponden a los criterios utilizados para clasificar a los consumidores en grupos homogéneos. Las variables demográficas incluyen factores como edad, género, nivel educativo, ingresos y ocupación; las variables geográficas consideran la ubicación, clima y características territoriales; las variables psicográficas analizan estilos de vida, valores y personalidad; mientras que las variables conductuales se enfocan en hábitos de consumo, frecuencia de compra y beneficios buscados.
         .tarjeta.color-primario-cv.p-4.rounded-3.mb-0(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0
-            .col-12.col-lg-11.order-2.order-lg-1(data-aos="zoom-in-right")
+            .col-12.col-lg-11(data-aos="zoom-in-right")
               p.mb-0 El uso combinado de estas variables permite obtener perfiles de consumidores más precisos, lo cual facilita el diseño de estrategias comerciales más efectivas. Por ejemplo, una empresa de ropa deportiva puede segmentar jóvenes universitarios (demográfico), residentes en ciudades principales (geográfico), con estilo de vida activo (psicográfico) y compradores frecuentes de artículos fitness (conductual), generando campañas promocionales altamente focalizadas.
-            .col-3.col-lg-1.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+            .col-3.col-lg-1.d-none.d-lg-block.mb-3.mb-lg-0(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema4/img_10.svg', class="img-fluid")
 
@@ -152,15 +152,12 @@
           figure.p-0.m-0.h-100
             img(src="@/assets/curso/tema4/img_15.png" class="img-fluid w-100 h-100 object-fit-cover").p-0
         .col-12.col-lg-7.p-5
-          .col-4.col-lg-2.mb-3(data-aos="zoom-in-right")
-            figure
-              img(src='@/assets/curso/tema4/img_16.svg', class="img-fluid")
           p.mb-0 Las técnicas de segmentación comprenden los métodos utilizados para identificar, clasificar y analizar grupos homogéneos de consumidores dentro de un mercado heterogéneo. Estas técnicas permiten comprender con mayor precisión las necesidades, motivaciones y comportamientos de compra de los clientes, facilitando el diseño de estrategias comerciales diferenciadas y orientadas al valor. Entre las principales metodologías se encuentran la segmentación a priori, que parte de variables previamente definidas como edad, ingresos o ubicación geográfica, y la segmentación mediante análisis estadístico, la cual emplea herramientas cuantitativas como análisis cluster, modelos predictivos y minería de datos para descubrir patrones ocultos en la información de consumidores (Malhotra, 2019).
 
     .row.justify-content-center.align-items-center.mb-4
       .col-12.col-lg-10.order-2.order-lg-1(data-aos="zoom-in-right")
         p.mb-0 En el contexto empresarial actual, caracterizado por grandes volúmenes de datos disponibles, las técnicas de segmentación se han fortalecido gracias al uso de tecnologías de analítica de datos, sistemas CRM y plataformas de inteligencia de negocios. Estas herramientas permiten construir bases de datos estructuradas, identificar tendencias de consumo en tiempo real y detectar microsegmentos con comportamientos altamente específicos, lo cual facilita el diseño de campañas personalizadas, el desarrollo de propuestas de valor diferenciadas y la optimización de la inversión en marketing. De esta manera, la segmentación deja de ser únicamente un proceso descriptivo para convertirse en un elemento estratégico de competitividad organizacional.
-      .col-4.col-lg-2.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-6.col-lg-2.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema4/img_17.png', class="img-fluid")
 
@@ -176,7 +173,7 @@
       .col-12.col-lg-10.mb-5
         .tarjeta--bg-img.color-acento-botones-cv.rounded-3.overflow-hidden
           .row.align-items-center.mb-0
-            .col-8.col-md-4.col-lg-2.mx-auto.text-center.p-5
+            .col-8.col-md-4.col-lg-2.mx-auto.text-center.p-5.p-md-5.p-lg-4
               figure.m-0
                 img(src="@/assets/curso/tema4/img_19.svg")
             .col-12.col-md-8.col-lg-10.p-4
@@ -203,7 +200,7 @@
         p.mb-0 La selección del mercado objetivo consiste en el proceso mediante el cual la empresa evalúa los diferentes segmentos identificados y elige aquellos que presentan mayor potencial de rentabilidad y crecimiento (Kotler & Keller, 2016). Este proceso implica analizar variables como tamaño del segmento, capacidad de compra, accesibilidad, nivel de competencia y coherencia con los objetivos estratégicos de la organización.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-4.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-4.col-lg-2.d-none.d-lg-block.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema4/img_21.png', class="img-fluid")
       .col-12.col-lg-10(data-aos="zoom-in-right")

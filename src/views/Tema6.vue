@@ -111,7 +111,7 @@
                 .col-12.col-sm
                   p.mb-0 <B>Ejemplo aplicado:</B> Una compañía del sector tecnológico presentó un informe por medio del cual evidenció el crecimiento del segmento de usuarios de dispositivos móviles en cierta región, recomendando el fortalecimiento de canales digitales y campañas promocionales dirigidas a este público específico, a continuación, se podrá ver dicho informe.
                 .col-12.col-sm-auto.pe-4
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=FWs9xNZcgBw" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Ejemplo_aplicado.pdf')" target="_blank")
                     span Ver PDF
                     i.fas.fa-file-download.ms-2
 

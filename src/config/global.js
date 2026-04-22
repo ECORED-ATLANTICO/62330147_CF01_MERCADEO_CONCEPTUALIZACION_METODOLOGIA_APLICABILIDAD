@@ -229,7 +229,7 @@ export default {
     },
     {
       referencia:
-        'KUniversidad Nacional Autónoma de México. (2020). <em>El entorno del marketing</em>. UNAM ',
+        'Universidad Nacional Autónoma de México. (2020). <em>El entorno del marketing</em>. UNAM ',
       link:
         'https://www.turisme.gva.es/ojs/index.php/Papers/article/view/205/172',
     },
@@ -247,7 +247,7 @@ export default {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
             'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
-          centro: 'Dirección General',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre',

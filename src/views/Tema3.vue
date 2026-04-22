@@ -81,7 +81,7 @@
         figure
           img(src='@/assets/curso/tema3/img_9.png', class="img-fluid")
       .col-12.col-lg-10.mb-4
-        p.mb-3(data-aos="zoom-in-right") Las técnicas de análisis de información comprenden los métodos utilizados para recopilar, organizar e interpretar datos relevantes del mercado. Entre las principales técnicas se encuentran el análisis estadístico, el análisis comparativo, los estudios de mercado, el análisis de tendencias y el benchmarking competitivo (Kotler & Keller, 2016).
+        p.mb-3(data-aos="zoom-in-right") Las técnicas de análisis de información comprenden los métodos utilizados para recopilar, organizar e interpretar datos relevantes del mercado. Entre las principales técnicas se encuentran el análisis estadístico, el análisis comparativo, los estudios de mercado, el análisis de tendencias y el <em>benchmarking</em> competitivo (Kotler & Keller, 2016).
         p.mb-0(data-aos="zoom-in-right") Técnicas de análisis de información y sus características
 
     .row.justify-content-center.align-items-center.mb-3
@@ -103,7 +103,7 @@
             figure.d-flex.justify-content-end.mb-3(data-aos="zoom-in-right")
                 img(src='@/assets/curso/tema3/img_13.svg', class="img-fluid col-1 col-lg-2")
             p.mb-0(data-aos="zoom-in-right") Examina cambios históricos en variables del mercado para proyectar comportamientos futuros del consumidor, la demanda o el sector económico.
-          .tarjeta.color-primario-cv.p-4(titulo="Benchmarking competitivo")
+          .tarjeta.color-primario-cv.p-4(titulo="<em>Benchmarking</em> competitivo")
             figure.d-flex.justify-content-end.mb-3(data-aos="zoom-in-right")
                 img(src='@/assets/curso/tema3/img_14.svg', class="img-fluid col-1 col-lg-2")
             p.mb-0(data-aos="zoom-in-right") Evalúa prácticas, procesos y resultados de empresas líderes del sector con el fin de adoptar mejores prácticas que mejoren la competitividad organizacional.
@@ -111,7 +111,7 @@
         .col-6.col-lg-3.d-none.d-lg-block.mb-3(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema3/img_15.svg', class="img-fluid")
-        p.mb-4 El uso adecuado de estas técnicas permite convertir datos en conocimiento estratégico útil para la toma de decisiones empresariales. Por ejemplo, el análisis de tendencias de consumo permite anticipar cambios en las preferencias de los clientes, mientras que el benchmarking facilita comparar el desempeño de la empresa con el de sus competidores, identificando oportunidades de mejora en productos, procesos y servicios.
+        p.mb-4 El uso adecuado de estas técnicas permite convertir datos en conocimiento estratégico útil para la toma de decisiones empresariales. Por ejemplo, el análisis de tendencias de consumo permite anticipar cambios en las preferencias de los clientes, mientras que el <em>benchmarking</em> facilita comparar el desempeño de la empresa con el de sus competidores, identificando oportunidades de mejora en productos, procesos y servicios.
 
     Separador
 

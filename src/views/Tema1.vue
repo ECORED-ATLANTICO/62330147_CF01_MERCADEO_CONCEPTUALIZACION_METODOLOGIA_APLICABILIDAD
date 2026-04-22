@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img_1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Comprender el mercado es el punto de partida de cualquier decisión estratégica en marketing y gestión empresarial, las organizaciones operan en entornos dinámicos donde la oferta, la demanda, los competidores y los consumidores interactúan permanentemente, generando oportunidades y riesgos que deben ser analizados de manera sistemática. Según Kotler y Keller (2016), el mercado no debe entenderse únicamente como un lugar físico de intercambio, sino como un conjunto de relaciones económicas, sociales y tecnológicas que determinan el comportamiento de compra.
+        p.mb-0 Comprender el mercado es el punto de partida de cualquier decisión estratégica en <em>marketing</em> y gestión empresarial, las organizaciones operan en entornos dinámicos donde la oferta, la demanda, los competidores y los consumidores interactúan permanentemente, generando oportunidades y riesgos que deben ser analizados de manera sistemática. Según Kotler y Keller (2016), el mercado no debe entenderse únicamente como un lugar físico de intercambio, sino como un conjunto de relaciones económicas, sociales y tecnológicas que determinan el comportamiento de compra.
 
     .row.justify-content-center.align-items-center.mb-3
       .col-3.col-lg-1.mb-3.mb-lg-0.d-none.d-lg-block(data-aos="zoom-in-right")
@@ -32,7 +32,7 @@
         figure
           img(src='@/assets/curso/tema1/img_3.png', class="img-fluid")
       .col-12.col-lg-9.mb-3.mb-lg-0(data-aos="zoom-in-right")
-        p.mb-3 El mercado se define como el conjunto de compradores reales y potenciales que poseen necesidades similares y capacidad de intercambio para satisfacerlas mediante bienes o servicios. Desde la perspectiva del marketing moderno, el mercado se configura a partir de la interacción entre consumidores, empresas oferentes, intermediarios, instituciones regulatorias y factores tecnológicos que facilitan el intercambio, esta interacción determina el comportamiento de precios, niveles de competencia y oportunidades de crecimiento.
+        p.mb-3 El mercado se define como el conjunto de compradores reales y potenciales que poseen necesidades similares y capacidad de intercambio para satisfacerlas mediante bienes o servicios. Desde la perspectiva del <em>marketing</em> moderno, el mercado se configura a partir de la interacción entre consumidores, empresas oferentes, intermediarios, instituciones regulatorias y factores tecnológicos que facilitan el intercambio, esta interacción determina el comportamiento de precios, niveles de competencia y oportunidades de crecimiento.
         p.mb-0 La composición del mercado incluye tres elementos fundamentales: 
       .col-3.col-lg-1.mb-3.mb-lg-0.d-none.d-lg-block(data-aos="zoom-in-right")
         figure
@@ -164,7 +164,7 @@
             figure
               img(src='@/assets/curso/tema1/img_17.svg', class="img-fluid")
           .col-12.col-lg-11.mb-0(data-aos="zoom-in-right")
-            p.mb-0 Las empresas modernas emplean herramientas tecnológicas como sistemas de inteligencia de negocios, análisis estadístico y plataformas de monitoreo digital para evaluar el comportamiento del mercado. Por ejemplo, empresas de retail utilizan análisis de datos de ventas en tiempo real para ajustar inventarios y promociones, optimizando la eficiencia operativa y la satisfacción del cliente.
+            p.mb-0 Las empresas modernas emplean herramientas tecnológicas como sistemas de inteligencia de negocios, análisis estadístico y plataformas de monitoreo digital para evaluar el comportamiento del mercado. Por ejemplo, empresas de <em>retail</em> utilizan análisis de datos de ventas en tiempo real para ajustar inventarios y promociones, optimizando la eficiencia operativa y la satisfacción del cliente.
       .col-8.col-lg-4.order-1.order-lg-2.mb-lg-0.mb-3(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema1/img_18.png', class="img-fluid")

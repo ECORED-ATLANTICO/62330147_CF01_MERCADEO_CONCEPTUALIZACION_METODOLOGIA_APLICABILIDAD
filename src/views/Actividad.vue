@@ -118,7 +118,7 @@ export default {
         {
           id: 7,
           texto:
-            'El benchmarking consiste en comparar prácticas empresariales con competidores líderes.',
+            'El <em>benchmarking</em> consiste en comparar prácticas empresariales con competidores líderes.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [

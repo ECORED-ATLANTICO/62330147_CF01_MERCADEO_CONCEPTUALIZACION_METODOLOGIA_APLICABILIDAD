@@ -12,7 +12,7 @@
         figure
           img(src='@/assets/curso/tema4/img_1.png', class="img-fluid")
       .col-12.col-lg-9.mb-0
-        p.mb-3(data-aos="zoom-in-right") La segmentación de mercados constituye uno de los procesos más importantes dentro de la planeación estratégica de mercadeo, ya que permite identificar grupos de consumidores con características, necesidades y comportamientos similares. A través de este proceso, las organizaciones pueden diseñar estrategias comerciales más precisas, optimizar el uso de recursos y mejorar el impacto de sus acciones de marketing en los públicos seleccionados.
+        p.mb-3(data-aos="zoom-in-right") La segmentación de mercados constituye uno de los procesos más importantes dentro de la planeación estratégica de mercadeo, ya que permite identificar grupos de consumidores con características, necesidades y comportamientos similares. A través de este proceso, las organizaciones pueden diseñar estrategias comerciales más precisas, optimizar el uso de recursos y mejorar el impacto de sus acciones de <em>marketing</em> en los públicos seleccionados.
         .tarjeta.color-acento-botones-cv.p-4.rounded-3.mb-0(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0
             .col-12.col-lg-9.order-2.order-lg-1(data-aos="zoom-in-right")
@@ -32,7 +32,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema4/img_3.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La segmentación de mercados se define como el proceso mediante el cual el mercado total se divide en grupos homogéneos de consumidores que comparten características similares en cuanto a necesidades, preferencias o comportamientos de compra (Kotler & Keller, 2016). Este proceso permite que las empresas comprendan con mayor precisión a sus clientes potenciales y diseñen estrategias de marketing diferenciadas que respondan a las particularidades de cada segmento.
+        p.mb-0 La segmentación de mercados se define como el proceso mediante el cual el mercado total se divide en grupos homogéneos de consumidores que comparten características similares en cuanto a necesidades, preferencias o comportamientos de compra (Kotler & Keller, 2016). Este proceso permite que las empresas comprendan con mayor precisión a sus clientes potenciales y diseñen estrategias de <em>marketing</em> diferenciadas que respondan a las particularidades de cada segmento.
 
     p.mb-3(data-aos="zoom-in-right") Entre los principales objetivos de la segmentación se encuentran identificar oportunidades de mercado, optimizar la asignación de recursos comerciales, mejorar el posicionamiento de los productos y aumentar la satisfacción del cliente mediante ofertas adaptadas a sus necesidades específicas. Por ejemplo, una empresa de tecnología puede segmentar su mercado en estudiantes, profesionales y empresas corporativas, diseñando propuestas de valor distintas para cada grupo con el fin de mejorar su competitividad.
     p.mb-5(data-aos="zoom-in-right") Objetivos de la segmentación de mercados
@@ -95,7 +95,7 @@
         .tarjeta.color-primario-cv.p-4.rounded-3.mb-0(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0
             .col-12.col-lg-11(data-aos="zoom-in-right")
-              p.mb-0 El uso combinado de estas variables permite obtener perfiles de consumidores más precisos, lo cual facilita el diseño de estrategias comerciales más efectivas. Por ejemplo, una empresa de ropa deportiva puede segmentar jóvenes universitarios (demográfico), residentes en ciudades principales (geográfico), con estilo de vida activo (psicográfico) y compradores frecuentes de artículos fitness (conductual), generando campañas promocionales altamente focalizadas.
+              p.mb-0 El uso combinado de estas variables permite obtener perfiles de consumidores más precisos, lo cual facilita el diseño de estrategias comerciales más efectivas. Por ejemplo, una empresa de ropa deportiva puede segmentar jóvenes universitarios (demográfico), residentes en ciudades principales (geográfico), con estilo de vida activo (psicográfico) y compradores frecuentes de artículos <em>fitness</em> (conductual), generando campañas promocionales altamente focalizadas.
             .col-3.col-lg-1.d-none.d-lg-block.mb-3.mb-lg-0(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema4/img_10.svg', class="img-fluid")
@@ -152,11 +152,11 @@
           figure.p-0.m-0.h-100
             img(src="@/assets/curso/tema4/img_15.png" class="img-fluid w-100 h-100 object-fit-cover").p-0
         .col-12.col-lg-7.p-5
-          p.mb-0 Las técnicas de segmentación comprenden los métodos utilizados para identificar, clasificar y analizar grupos homogéneos de consumidores dentro de un mercado heterogéneo. Estas técnicas permiten comprender con mayor precisión las necesidades, motivaciones y comportamientos de compra de los clientes, facilitando el diseño de estrategias comerciales diferenciadas y orientadas al valor. Entre las principales metodologías se encuentran la segmentación a priori, que parte de variables previamente definidas como edad, ingresos o ubicación geográfica, y la segmentación mediante análisis estadístico, la cual emplea herramientas cuantitativas como análisis cluster, modelos predictivos y minería de datos para descubrir patrones ocultos en la información de consumidores (Malhotra, 2019).
+          p.mb-0 Las técnicas de segmentación comprenden los métodos utilizados para identificar, clasificar y analizar grupos homogéneos de consumidores dentro de un mercado heterogéneo. Estas técnicas permiten comprender con mayor precisión las necesidades, motivaciones y comportamientos de compra de los clientes, facilitando el diseño de estrategias comerciales diferenciadas y orientadas al valor. Entre las principales metodologías se encuentran la segmentación a <em>priori</em>, que parte de variables previamente definidas como edad, ingresos o ubicación geográfica, y la segmentación mediante análisis estadístico, la cual emplea herramientas cuantitativas como análisis <em>cluster</em>, modelos predictivos y minería de datos para descubrir patrones ocultos en la información de consumidores (Malhotra, 2019).
 
     .row.justify-content-center.align-items-center.mb-4
       .col-12.col-lg-10.order-2.order-lg-1(data-aos="zoom-in-right")
-        p.mb-0 En el contexto empresarial actual, caracterizado por grandes volúmenes de datos disponibles, las técnicas de segmentación se han fortalecido gracias al uso de tecnologías de analítica de datos, sistemas CRM y plataformas de inteligencia de negocios. Estas herramientas permiten construir bases de datos estructuradas, identificar tendencias de consumo en tiempo real y detectar microsegmentos con comportamientos altamente específicos, lo cual facilita el diseño de campañas personalizadas, el desarrollo de propuestas de valor diferenciadas y la optimización de la inversión en marketing. De esta manera, la segmentación deja de ser únicamente un proceso descriptivo para convertirse en un elemento estratégico de competitividad organizacional.
+        p.mb-0 En el contexto empresarial actual, caracterizado por grandes volúmenes de datos disponibles, las técnicas de segmentación se han fortalecido gracias al uso de tecnologías de analítica de datos, sistemas CRM y plataformas de inteligencia de negocios. Estas herramientas permiten construir bases de datos estructuradas, identificar tendencias de consumo en tiempo real y detectar microsegmentos con comportamientos altamente específicos, lo cual facilita el diseño de campañas personalizadas, el desarrollo de propuestas de valor diferenciadas y la optimización de la inversión en <em>marketing</em>. De esta manera, la segmentación deja de ser únicamente un proceso descriptivo para convertirse en un elemento estratégico de competitividad organizacional.
       .col-6.col-lg-2.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema4/img_17.png', class="img-fluid")
@@ -167,7 +167,7 @@
           figure
             img(src='@/assets/curso/tema4/img_18.png', class="img-fluid")
         .col-12.col-lg-10(data-aos="zoom-in-right")
-          p.mb-0 El uso adecuado de las técnicas de segmentación también contribuye a mejorar la toma de decisiones gerenciales, ya que permite estimar con mayor precisión el potencial de mercado, seleccionar mercados objetivo con mayor probabilidad de éxito y diseñar estrategias comerciales coherentes con las características del consumidor. En sectores como el comercio electrónico, los servicios financieros y el retail, la segmentación basada en datos se ha convertido en un factor clave para el posicionamiento de marcas y la fidelización de clientes, evidenciando que las decisiones sustentadas en información analítica generan ventajas competitivas sostenibles.
+          p.mb-0 El uso adecuado de las técnicas de segmentación también contribuye a mejorar la toma de decisiones gerenciales, ya que permite estimar con mayor precisión el potencial de mercado, seleccionar mercados objetivo con mayor probabilidad de éxito y diseñar estrategias comerciales coherentes con las características del consumidor. En sectores como el comercio electrónico, los servicios financieros y el <em>retail</em>, la segmentación basada en datos se ha convertido en un factor clave para el posicionamiento de marcas y la fidelización de clientes, evidenciando que las decisiones sustentadas en información analítica generan ventajas competitivas sostenibles.
 
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-12.col-lg-10.mb-5
@@ -181,7 +181,7 @@
                 .col-12.col-sm
                   p.mb-0 A continuación, un video donde se aprecia la segmentación de mercados.
                   p.mb-0.fw-bold Segmentación de mercado
-                  p.mb-0 Descripción: video del Ecosistema de Recursos Educativos Digitales SENA, en el cual se explica el proceso de segmentación de mercados, su propósito estratégico y las variables utilizadas para dividir el mercado en grupos homogéneos de consumidores,.
+                  p.mb-0 Descripción: video del Ecosistema de Recursos Educativos Digitales SENA, en el cual se explica el proceso de segmentación de mercados, su propósito estratégico y las variables utilizadas para dividir el mercado en grupos homogéneos de consumidores.
                 .col-12.col-sm-auto.pe-4
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=kODlxbwfCSU" target="_blank")
                     span Ver video
@@ -204,7 +204,7 @@
         figure
           img(src='@/assets/curso/tema4/img_21.png', class="img-fluid")
       .col-12.col-lg-10(data-aos="zoom-in-right")
-        p.mb-0 Una adecuada selección del mercado objetivo permite concentrar los esfuerzos comerciales en los segmentos más atractivos, optimizando la inversión en marketing y aumentando la efectividad de las estrategias de posicionamiento. Por ejemplo, una empresa de productos orgánicos puede seleccionar como mercado objetivo consumidores urbanos con alto nivel educativo y preocupación por el bienestar saludable, diseñando campañas especializadas que respondan a sus expectativas.
+        p.mb-0 Una adecuada selección del mercado objetivo permite concentrar los esfuerzos comerciales en los segmentos más atractivos, optimizando la inversión en <em>marketing</em> y aumentando la efectividad de las estrategias de posicionamiento. Por ejemplo, una empresa de productos orgánicos puede seleccionar como mercado objetivo consumidores urbanos con alto nivel educativo y preocupación por el bienestar saludable, diseñando campañas specializadas que respondan a sus expectativas.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10(data-aos="zoom-in-right")

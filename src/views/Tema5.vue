@@ -117,14 +117,14 @@
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-12.col-lg-10.mb-5
         .tarjeta--bg-img.color-acento-botones-cv.rounded-3.overflow-hidden
-          .row.align-items-center.mb-0
+          .row.justify-content-center.align-items-center.mb-0
             .col-8.col-md-4.col-lg-2.mx-auto.text-center.p-5.p-md-5.p-lg-4
               figure.m-0
                 img(src="@/assets/curso/tema4/img_19.svg")
-            .col-12.col-md-8.col-lg-10.p-4
+            .col-12.col-md-12.col-lg-10.p-4
               .row.justify-content-between.align-items-center.g-3
                 .col-12.col-sm
-                  p.mb-0 A continuación, un video donde se aprecia profundiza sobre los canales de distribución
+                  p.mb-0 A continuación, lo invitamos a consultar el siguiente video, donde puede profundizar sobre los canales de distribución.
                   p.mb-0.fw-bold Canales de distribución
                   p.mb-0 Descripción: video del Ecosistema de Recursos Educativos Digitales SENA, en el cual se explica los principales tipos de canales de distribución, su función dentro de la cadena de valor y su impacto en la disponibilidad de los productos en el mercado.
                 .col-12.col-sm-auto.pe-4

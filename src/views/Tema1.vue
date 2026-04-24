@@ -28,7 +28,7 @@
     .mb-0 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-4.col-md-6.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-8.col-md-6.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema1/img_3.png', class="img-fluid")
       .col-12.col-lg-9.mb-3.mb-lg-0(data-aos="zoom-in-right")
@@ -85,12 +85,15 @@
         p.mb-0 La estructura del mercado se refiere a la forma en que se organizan las empresas dentro de un sector y al nivel de competencia existente. De acuerdo con Mankiw (2021), los mercados pueden clasificarse en competencia perfecta, competencia monopolística, oligopolio y monopolio, dependiendo del número de participantes y del grado de control sobre los precios. Cada tipo de mercado presenta características específicas que determinan las estrategias comerciales de las organizaciones.
 
     .row.justify-content-center.align-items-center.mb-3
-      .col-4.col-lg-2.d-none.d-lg-blockmb-4(data-aos="zoom-in-right")
+      .col-4.col-lg-4.col-xl-2.d-none.d-lg-block.mb-4(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema1/img_9.png', class="img-fluid")
-      .col-12.col-lg-8.mb-4
+      .col-12.col-lg-8.col-xl-8.mb-3
         p.mb-3(data-aos="zoom-in-right") Por ejemplo, el mercado de telefonía móvil en muchos países presenta características de oligopolio, debido a la existencia de pocos operadores que concentran la mayor parte de la participación, esta situación obliga a las empresas a diferenciar sus servicios mediante planes, promociones y valor agregado, en lugar de competir únicamente por precio. Comprender la estructura del mercado permite a las organizaciones diseñar estrategias comerciales acordes con el nivel de competencia existente.
-        p.mb-0(data-aos="zoom-in-right") Tipos de mercado y características principales
+   
+    .row.justify-content-center.align-items-center.mb-3
+      .col-12.col-lg-10
+        p.mb-3(data-aos="zoom-in-right") Tipos de mercado y características principales
 
     .row.justify-content-center.align-items-stretch.mb-5
       .col-12.col-md-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")

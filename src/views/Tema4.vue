@@ -46,7 +46,7 @@
           .col-12.col-md-6.col-lg-6.mb-3(data-aos="zoom-in-right")
             .tarjeta.color-acento-contenido-cv.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center.justify-content-center
               .row.justify-content-center.align-items-center.mb-0
-                .col-4.col-lg-3.mb-0
+                .col-4.col-lg-3.mb-3
                   figure
                     img(src='@/assets/curso/tema4/img_5.svg', class="img-fluid")
                 .col-12.col-lg-9.mb-0
@@ -55,7 +55,7 @@
           .col-12.col-md-6.col-lg-6.mb-3(data-aos="zoom-in-right")
             .tarjeta.color-acento-contenido-cv.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center.justify-content-center
               .row.justify-content-center.align-items-center.mb-0
-                .col-4.col-lg-3.mb-0
+                .col-4.col-lg-3.mb-3
                   figure
                     img(src='@/assets/curso/tema4/img_6.svg', class="img-fluid")
                 .col-12.col-lg-9.mb-0
@@ -64,7 +64,7 @@
           .col-12.col-md-6.col-lg-6.mb-3(data-aos="zoom-in-right")
             .tarjeta.color-acento-contenido-cv.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center.justify-content-center
               .row.justify-content-center.align-items-center.mb-0
-                .col-4.col-lg-3.mb-0
+                .col-4.col-lg-3.mb-3
                   figure
                     img(src='@/assets/curso/tema4/img_7.svg', class="img-fluid")
                 .col-12.col-lg-9.mb-0
@@ -73,7 +73,7 @@
           .col-12.col-md-6.col-lg-6.mb-3(data-aos="zoom-in-right")
             .tarjeta.color-acento-contenido-cv.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center.justify-content-center
               .row.justify-content-center.align-items-center.mb-0
-                .col-4.col-lg-3.mb-0
+                .col-4.col-lg-3.mb-3
                   figure
                     img(src='@/assets/curso/tema4/img_8.svg', class="img-fluid")
                 .col-12.col-lg-9.mb-0
@@ -155,9 +155,9 @@
           p.mb-0 Las técnicas de segmentación comprenden los métodos utilizados para identificar, clasificar y analizar grupos homogéneos de consumidores dentro de un mercado heterogéneo. Estas técnicas permiten comprender con mayor precisión las necesidades, motivaciones y comportamientos de compra de los clientes, facilitando el diseño de estrategias comerciales diferenciadas y orientadas al valor. Entre las principales metodologías se encuentran la segmentación a <em>priori</em>, que parte de variables previamente definidas como edad, ingresos o ubicación geográfica, y la segmentación mediante análisis estadístico, la cual emplea herramientas cuantitativas como análisis <em>cluster</em>, modelos predictivos y minería de datos para descubrir patrones ocultos en la información de consumidores (Malhotra, 2019).
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-12.col-lg-10.order-2.order-lg-1(data-aos="zoom-in-right")
+      .col-12.col-md-12.col-lg-10.order-2.order-lg-1(data-aos="zoom-in-right")
         p.mb-0 En el contexto empresarial actual, caracterizado por grandes volúmenes de datos disponibles, las técnicas de segmentación se han fortalecido gracias al uso de tecnologías de analítica de datos, sistemas CRM y plataformas de inteligencia de negocios. Estas herramientas permiten construir bases de datos estructuradas, identificar tendencias de consumo en tiempo real y detectar microsegmentos con comportamientos altamente específicos, lo cual facilita el diseño de campañas personalizadas, el desarrollo de propuestas de valor diferenciadas y la optimización de la inversión en <em>marketing</em>. De esta manera, la segmentación deja de ser únicamente un proceso descriptivo para convertirse en un elemento estratégico de competitividad organizacional.
-      .col-6.col-lg-2.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-8.col-md-6.col-lg-2.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema4/img_17.png', class="img-fluid")
 

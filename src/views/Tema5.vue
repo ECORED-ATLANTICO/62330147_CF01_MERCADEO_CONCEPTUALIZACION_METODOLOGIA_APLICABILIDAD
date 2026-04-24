@@ -46,10 +46,10 @@
           figcaption Nota. Adaptado de Kotler y Keller, (2016).
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-6.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-8.col-md-6.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema5/img_7.png', class="img-fluid")
-      .col-12.col-lg-10(data-aos="zoom-in-right")
+      .col-12.col-md-12.col-lg-10(data-aos="zoom-in-right")
         p.mb-0 En el contexto empresarial, las organizaciones diseñan sus sistemas de comercialización considerando factores como cobertura del mercado, tipo de producto, nivel de servicio requerido, hábitos de compra del consumidor y costos de operación. Productos de consumo masivo suelen requerir estructuras extensivas con múltiples intermediarios para alcanzar alta cobertura geográfica, mientras que productos especializados pueden utilizar canales selectivos o directos que permiten mayor control de la experiencia del cliente. Por ejemplo, empresas multinacionales como Nestlé utilizan estructuras de comercialización mixtas que combinan distribuidores mayoristas, supermercados, tiendas de barrio y ventas institucionales, garantizando disponibilidad permanente de sus productos en diversos puntos de contacto con el consumidor.
 
     .bloque-texto-g.bloque-texto-g--inverso.color-primario-v.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in-right")
@@ -66,10 +66,10 @@
     .mb-0 
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-6.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-8.col-md-6.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema5/img_9.png', class="img-fluid")
-      .col-12.col-lg-10(data-aos="zoom-in-right")
+      .col-12.col-md-12.col-lg-10(data-aos="zoom-in-right")
         p.mb-3 Los canales de distribución son las rutas mediante las cuales los productos se desplazan desde el productor hasta el consumidor final, pudiendo ser directos o indirectos según el número de intermediarios que participen en el proceso (Armstrong & Kotler, 2017). La selección del canal adecuado influye en el alcance del mercado, el precio final del producto, la rapidez de entrega y la percepción de valor por parte del consumidor.
         p.mb-0 Las empresas seleccionan sus canales de distribución considerando factores como características del producto, hábitos de compra del consumidor, cobertura geográfica y costos logísticos. Por ejemplo, Apple utiliza una estrategia de distribución selectiva mediante tiendas oficiales, distribuidores autorizados y comercio electrónico, lo que le permite mantener control sobre la experiencia del cliente y el posicionamiento de la marca en el mercado.
 

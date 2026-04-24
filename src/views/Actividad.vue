@@ -18,7 +18,7 @@ export default {
   data: () => ({
     cuestionario: {
       tema: 'Verificación de fundamentos del diagnóstico y segmentación.',
-      titulo: 'Cuestionario',
+      titulo: 'Verificación de fundamentos del diagnóstico y segmentación.',
       introduccion:
         '<b> Objetivo:</b> evaluar la comprensión de los conceptos fundamentales del diagnóstico del entorno y la segmentación de mercados.',
       barajarPreguntas: true,

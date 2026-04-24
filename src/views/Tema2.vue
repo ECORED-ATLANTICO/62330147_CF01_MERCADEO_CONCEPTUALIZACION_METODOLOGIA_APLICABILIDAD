@@ -83,7 +83,7 @@
                 .col-12.col-lg-8.mb-0
                   h5.mb-3 Político-legal
                   p.mb-0 Regulaciones, normas comerciales.
-          .col-12.col-md-6.col-lg-4.mb-3(data-aos="zoom-in-right")
+          .col-12.col-md-6.col-lg-4.mb-3.mx-md-auto.mx-lg-0(data-aos="zoom-in-right")
             .tarjeta.color-acento-contenido-cv.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center.justify-content-center
               .row.justify-content-center.align-items-center.mb-0
                 .col-4.col-lg-4.mb-0

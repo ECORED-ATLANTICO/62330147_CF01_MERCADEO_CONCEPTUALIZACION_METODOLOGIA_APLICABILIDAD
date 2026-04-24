@@ -63,7 +63,7 @@
         h4.subtitulo-destacado__texto.ps-4.p-2 Elementos del diagnóstico del mercado objetivo
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-9.order-2.order-lg-1
+      .col-12.col-md-12.col-lg-9.order-2.order-lg-1
         .custom-slider.p-3.p-sm-3.mb-5(data-aos="zoom-in-right")
           SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-6").p-2.rounded-3
             .tarjeta--fondo-img-2.h-100
@@ -82,7 +82,7 @@
               .tarjeta--04.mb-3
               h5.text-center.mb-0 Priorización estratégica
               .tarjeta--slider__content.text-center.mb-2  Selecciona segmentos con mayor potencial.
-      .col-6.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-8.col-md-6.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema6/img_11.png', class="img-fluid") 
 

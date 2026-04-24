@@ -223,13 +223,13 @@ export default {
   referencias: [
     {
       referencia:
-        'Kotler, P., & Armstrong, G. (2017). <em>Segmentación, mercado meta y posicionamiento</em>. Pearson.',
+        'Kotler, P., & Armstrong, G. (2013). <em>Fundamentos de Marketing. Páginas 162 a 168</em>. Pearson.',
       link:
-        'https://revistas.uap.edu.pe/ojs/index.php/CYD/article/view/2846/2838?utm_source',
+        'https://frrq.cvg.utn.edu.ar/pluginfile.php/14584/mod_resource/content/1/Fundamentos%20del%20Marketing-Kotler.pdf',
     },
     {
       referencia:
-        'Universidad Nacional Autónoma de México. (2020). <em>El entorno del marketing</em>. UNAM ',
+        'Universidad Nacional Autónoma de México. (2020). <em>Segmentación de mercados: la clave para el éxito en la promoción turística</em>. UNAM ',
       link:
         'https://www.turisme.gva.es/ojs/index.php/Papers/article/view/205/172',
     },

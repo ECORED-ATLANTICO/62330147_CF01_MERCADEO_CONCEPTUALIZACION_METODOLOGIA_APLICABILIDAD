@@ -106,7 +106,7 @@
       .col-12.col-md-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
         .tarjeta.color-acento-botones-cv.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center.justify-content-center
           .row.justify-content-center.align-items-center.mb-0
-            .col-4.col-lg-4.mb-0
+            .col-4.col-lg-4.mb-3
               figure
                 img(src='@/assets/curso/tema4/img_11.svg', class="img-fluid")
             .col-12.col-lg-8.mb-0
@@ -115,7 +115,7 @@
       .col-12.col-md-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
         .tarjeta.color-acento-botones-cv.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center.justify-content-center
           .row.justify-content-center.align-items-center.mb-0
-            .col-4.col-lg-4.mb-0
+            .col-4.col-lg-4.mb-3
               figure
                 img(src='@/assets/curso/tema4/img_12.svg', class="img-fluid")
             .col-12.col-lg-8.mb-0
@@ -124,7 +124,7 @@
       .col-12.col-md-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
         .tarjeta.color-acento-botones-cv.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center.justify-content-center
           .row.justify-content-center.align-items-center.mb-0
-            .col-4.col-lg-4.mb-0
+            .col-4.col-lg-4.mb-3
               figure
                 img(src='@/assets/curso/tema4/img_13.svg', class="img-fluid")
             .col-12.col-lg-8.mb-0
@@ -133,7 +133,7 @@
       .col-12.col-md-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
         .tarjeta.color-acento-botones-cv.p-4.rounded-4.mb-0.h-100.d-flex.align-items-center.justify-content-center
           .row.justify-content-center.align-items-center.mb-0
-            .col-4.col-lg-4.mb-0
+            .col-4.col-lg-4.mb-3
               figure
                 img(src='@/assets/curso/tema4/img_14.svg', class="img-fluid")
             .col-12.col-lg-8.mb-0
@@ -163,7 +163,7 @@
 
     .tarjeta.color-primario-cv.p-4.rounded-3.mb-5(data-aos="zoom-in-right")
       .row.justify-content-center.align-items-center.mb-0
-        .col-4.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-6.col-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema4/img_18.png', class="img-fluid")
         .col-12.col-lg-10(data-aos="zoom-in-right")

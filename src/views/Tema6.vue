@@ -109,10 +109,10 @@
             .col-12.col-md-8.col-lg-10.p-4
               .row.justify-content-between.align-items-center.g-3
                 .col-12.col-sm
-                  p.mb-0 <B>Ejemplo aplicado:</B> Una compañía del sector tecnológico presentó un informe por medio del cual evidenció el crecimiento del segmento de usuarios de dispositivos móviles en cierta región, recomendando el fortalecimiento de canales digitales y campañas promocionales dirigidas a este público específico, a continuación, se podrá ver dicho informe.
+                  p.mb-0 <B>Ejemplo aplicado.</B> Una compañía del sector tecnológico presentó un informe por medio del cual evidenció el crecimiento del segmento de usuarios de dispositivos móviles en cierta región, recomendando el fortalecimiento de canales digitales y campañas promocionales dirigidas a este público específico, a continuación, se podrá ver dicho informe.
                 .col-12.col-sm-auto.pe-4
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Ejemplo_aplicado.pdf')" target="_blank")
-                    span Ver PDF
+                    span Enlace PDF
                     i.fas.fa-file-download.ms-2
 
     .row.justify-content-center.align-items-center.mb-5

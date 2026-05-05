@@ -184,7 +184,7 @@
                   p.mb-0 Descripción: video del Ecosistema de Recursos Educativos Digitales SENA, en el cual se explica el proceso de segmentación de mercados, su propósito estratégico y las variables utilizadas para dividir el mercado en grupos homogéneos de consumidores.
                 .col-12.col-sm-auto.pe-4
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=kODlxbwfCSU" target="_blank")
-                    span Ver video
+                    span Enlace video
                     i.fas.fa-file-download.ms-2
 
     Separador

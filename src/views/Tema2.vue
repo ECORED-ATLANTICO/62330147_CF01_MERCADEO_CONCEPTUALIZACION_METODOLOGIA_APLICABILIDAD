@@ -133,7 +133,7 @@
     Separador
 
     #t_2_4.titulo-segundo.color-acento-contenido
-      .h2(data-aos="fade-right") 2.4 Decisiones comerciales
+      .h2(data-aos="fade-right") 2.4 Fuentes de información
     .mb-0 
 
     .row.justify-content-center.align-items-center.mb-5

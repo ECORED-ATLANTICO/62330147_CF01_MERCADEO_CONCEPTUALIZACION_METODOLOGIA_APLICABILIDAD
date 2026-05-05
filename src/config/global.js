@@ -80,7 +80,7 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Segmentación',
+        titulo: 'Segmentación de mercados',
         desarrolloContenidos: true,
         subMenu: [
           { numero: '4.1', titulo: 'Concepto y objetivos', hash: 't_4_1' },

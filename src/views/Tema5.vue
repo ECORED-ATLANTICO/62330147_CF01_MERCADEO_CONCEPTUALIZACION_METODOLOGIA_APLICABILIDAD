@@ -129,7 +129,7 @@
                   p.mb-0 Descripción: video del Ecosistema de Recursos Educativos Digitales SENA, en el cual se explica los principales tipos de canales de distribución, su función dentro de la cadena de valor y su impacto en la disponibilidad de los productos en el mercado.
                 .col-12.col-sm-auto.pe-4
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=FWs9xNZcgBw" target="_blank")
-                    span Ver video
+                    span Enlace video
                     i.fas.fa-file-download.ms-2
 
     .row.justify-content-center.align-items-center.mb-5

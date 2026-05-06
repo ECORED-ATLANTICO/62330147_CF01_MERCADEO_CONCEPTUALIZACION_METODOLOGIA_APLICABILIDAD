@@ -194,10 +194,10 @@
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-2.p-5
             .row.justify-content-center.align-items-center.mb-5.mb-lg-0
               .col-12.col-lg-8.mb-5.mb-lg-0
-                p.mb-4 Escucha el podcast
+                p.mb-4 Escucha el pódcast
                 TarjetaAudio.color-acento-botones.mb-0(
-                  texto="<h4 class='mb-0'>xxxxx</h4>"
-                  :audio="require('@/assets/curso/tema1/img_1.png')"
+                  texto="<h4 class='mb-0'>Fundamentos del mercado y su estructura</h4>"
+                  :audio="require('@/assets/curso/podcast/Podcast_1_CF01.wav')"
                   @audio-hover="mostrarIndicadorTarjetaAudio = true"
                   style="border: none !important; padding: 0 !important; background: transparent !important;"
                 )

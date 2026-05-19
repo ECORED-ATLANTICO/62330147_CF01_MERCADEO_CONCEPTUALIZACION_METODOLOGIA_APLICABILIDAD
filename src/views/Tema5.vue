@@ -13,7 +13,7 @@
           figure.p-0.m-0.h-100
             img(src="@/assets/curso/tema5/img_1.png" class="img-fluid w-100 h-100 object-fit-cover").p-0
         .col-12.col-lg-7.p-5
-          p.mb-3 Los sistemas de comercialización y distribución representan el conjunto de actividades mediante las cuales los productos y servicios llegan desde el productor hasta el consumidor final, la eficiencia en estos procesos influye directamente en la competitividad empresarial, ya que determina factores como disponibilidad del producto, tiempos de entrega, costos logísticos y niveles de satisfacción del cliente.
+          p.mb-3 Los sistemas de comercialización y distribución representan el conjunto de actividades mediante las cuales los productos y servicios llegan desde el productor hasta el consumidor final; la eficiencia en estos procesos influye directamente en la competitividad empresarial, ya que determina factores como disponibilidad del producto, tiempos de entrega, costos logísticos y niveles de satisfacción del cliente.
           p.mb-0 Comprender la estructura de los sistemas de comercialización y los diferentes canales de distribución permite a las organizaciones diseñar estrategias que optimicen la cobertura del mercado y fortalezcan su posicionamiento competitivo. En mercados globalizados, la adecuada gestión de la distribución se convierte en un elemento estratégico clave para alcanzar ventajas sostenibles frente a la competencia.
 
     Separador
@@ -41,8 +41,8 @@
           h5 Figura 4.
           |    Componentes del sistema de comercialización
         figure(data-aos="flip-left")
-          img(src='@/assets/curso/tema5/img_5.svg', class="img-fluid d-none d-lg-block", alt="La figura presenta los componentes del sistema de comercialización.").mb-5
-          img(src='@/assets/curso/tema5/img_6.svg', class="img-fluid d-block d-lg-none", alt="La figura presenta los componentes del sistema de comercialización.").mb-5
+          img(src='@/assets/curso/tema5/img_5.svg', class="img-fluid d-none d-lg-block", alt="La figura presenta el funcionamiento del sistema de comercialización de un producto o servicio. Esta compuesto por diferentes actores como lo son: productor, intermediarios minoristas y consumidor final. Todos ellos participan en el proceso de distribución y venta hasta que el producto llega al consumidor final.").mb-5
+          img(src='@/assets/curso/tema5/img_6.svg', class="img-fluid d-block d-lg-none", alt="La figura presenta el funcionamiento del sistema de comercialización de un producto o servicio. Esta compuesto por diferentes actores como lo son: productor, intermediarios minoristas y consumidor final. Todos ellos participan en el proceso de distribución y venta hasta que el producto llega al consumidor final.").mb-5
           figcaption Nota. Adaptado de Kotler y Keller, (2016).
 
     .row.justify-content-center.align-items-center.mb-4
@@ -57,7 +57,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema5/img_8.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Adicionalmente, el avance de las tecnologías digitales ha impulsado la evolución de los sistemas de comercialización hacia modelos omni canal, en los cuales los consumidores pueden interactuar con la empresa a través de diferentes canales integrados, como plataformas digitales, tiendas físicas, aplicaciones móviles y redes sociales. Este enfoque permite ofrecer experiencias de compra coherentes y personalizadas, fortaleciendo la fidelización del cliente y ampliando las oportunidades de venta.
+        p.mb-0 Adicionalmente, el avance de las tecnologías digitales ha impulsado la evolución de los sistemas de comercialización hacia modelos omnicanal, en los cuales los consumidores pueden interactuar con la empresa a través de diferentes canales integrados, como plataformas digitales, tiendas físicas, aplicaciones móviles y redes sociales. Este enfoque permite ofrecer experiencias de compra coherentes y personalizadas, fortaleciendo la fidelización del cliente y ampliando las oportunidades de venta.
 
     Separador
 

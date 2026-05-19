@@ -11,7 +11,7 @@
       .bloque-texto-t__img.mb-0
         img(src='@/assets/curso/tema3/img_1.png')
       .bloque-texto-t__texto.col-10.mb-0
-        p.mb-0 El diagnóstico estratégico de mercado constituye una herramienta fundamental para comprender la posición competitiva de la organización dentro de su entorno, a través del análisis sistemático de información interna y externa, las empresas pueden identificar oportunidades de crecimiento, riesgos potenciales y capacidades organizacionales que determinan su desempeño comercial, este proceso permite tomar decisiones estratégicas sustentadas en evidencia y no únicamente en percepciones.
+        p.mb-0 El diagnóstico estratégico de mercado constituye una herramienta fundamental para comprender la posición competitiva de la organización dentro de su entorno. A través del análisis sistemático de información interna y externa, las empresas pueden identificar oportunidades de crecimiento, riesgos potenciales y capacidades organizacionales que determinan su desempeño comercial. Este proceso permite tomar decisiones estratégicas sustentadas en evidencia y no únicamente en percepciones.
 
     .row.justify-content-center.align-items-center.mb-0
       .col-4.col-lg-1.d-none.d-lg-block.mb-3.mb-lg-0(data-aos="zoom-in-right")
@@ -46,8 +46,8 @@
           h5 Figura 2.
           |    Elementos del direccionamiento estratégico
         figure(data-aos="flip-left")
-          img(src='@/assets/curso/tema3/img_5.svg', class="img-fluid d-none d-lg-block", alt="La figura presenta los diferentes elementos del direccionamiento estratégico.").mb-5
-          img(src='@/assets/curso/tema3/img_6.svg', class="img-fluid d-block d-lg-none", alt="La figura presenta los diferentes elementos del direccionamiento estratégico.").mb-5
+          img(src='@/assets/curso/tema3/img_5.svg', class="img-fluid d-none d-lg-block", alt="La figura presenta los principales componentes que orientan la planeación estratégica de una empresa u organización; lo cuales son la misión, visión, valores y objetivos estratégicos. Estos elementos permiten definir qué hace la empresa, hacia dónde quiere llegar y cuáles son los principios que guían su funcionamiento. ").mb-5
+          img(src='@/assets/curso/tema3/img_6.svg', class="img-fluid d-block d-lg-none", alt="La figura presenta los principales componentes que orientan la planeación estratégica de una empresa u organización; lo cuales son la misión, visión, valores y objetivos estratégicos. Estos elementos permiten definir qué hace la empresa, hacia dónde quiere llegar y cuáles son los principios que guían su funcionamiento. ").mb-5
           figcaption Nota. SENA, (2026).
 
     Separador
@@ -82,7 +82,7 @@
           img(src='@/assets/curso/tema3/img_9.png', class="img-fluid")
       .col-12.col-lg-10.mb-4
         p.mb-3(data-aos="zoom-in-right") Las técnicas de análisis de información comprenden los métodos utilizados para recopilar, organizar e interpretar datos relevantes del mercado. Entre las principales técnicas se encuentran el análisis estadístico, el análisis comparativo, los estudios de mercado, el análisis de tendencias y el <em>benchmarking</em> competitivo (Kotler & Keller, 2016).
-        p.mb-0(data-aos="zoom-in-right") Técnicas de análisis de información y sus características
+        p.mb-0(data-aos="zoom-in-right") Técnicas de análisis de información y sus características:
 
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-8.mb-4(data-aos="zoom-in-right")
@@ -139,8 +139,8 @@
           h5 Figura 3.
           |    Matriz DOFA aplicada al mercado
         figure(data-aos="flip-left")
-          img(src='@/assets/curso/tema3/img_18.svg', class="img-fluid d-none d-lg-block",alt="La figura presenta  los componentes de la Matriz DOFA aplicada al mercado.").mb-5
-          img(src='@/assets/curso/tema3/img_19.svg', class="img-fluid d-block d-lg-none", alt="La figura presenta  los componentes de la Matriz DOFA aplicada al mercado.").mb-5
+          img(src='@/assets/curso/tema3/img_18.svg', class="img-fluid d-none d-lg-block", alt="La figura presenta la matriz DOFA; la cual es una herramienta utilizada para analizar la situación de una empresa, proyecto u organización. Esta metodología permite identificar aspectos positivos y negativos tanto internos como externos, con el fin de apoyar la toma de decisiones y la planeación estratégica.").mb-5
+          img(src='@/assets/curso/tema3/img_19.svg', class="img-fluid d-block d-lg-none", alt="La figura presenta la matriz DOFA; la cual es una herramienta utilizada para analizar la situación de una empresa, proyecto u organización. Esta metodología permite identificar aspectos positivos y negativos tanto internos como externos, con el fin de apoyar la toma de decisiones y la planeación estratégica.").mb-5
           figcaption Nota. SENA, (2026).
 
     .row.justify-content-center.align-items-center.mb-5

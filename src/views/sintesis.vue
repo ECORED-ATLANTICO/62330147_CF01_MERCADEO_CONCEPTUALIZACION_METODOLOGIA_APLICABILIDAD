@@ -15,7 +15,7 @@
         figure
           img(src="@/assets/curso/sintesis/sintesis.svg", alt="La ilustración muestra la estructura jerárquica que sintetiza el contenido del componente formativo “diagnóstico y segmentación”, el cual se organiza en seis unidades. Inicia con los fundamentos del mercado en donde se aborda su concepto, estructura y tipos, mercado, empresa y consumidor y finaliza con análisis de información. En el capítulo dos se desarrolla el entorno organizacional, donde se aborda el macroentorno, microentorno, decisiones comerciales y culmina con fuentes de información, el capítulo tres, aborda la temática de diagnóstico, en la que se desarrolla el direccionamiento estratégico, su concepto y propósito, las técnicas de análisis y el análisis DOFA, el capítulo cuatro trabaja la segmentación, abordando el concepto y objetivos, variables, técnicas y selección del mercado. El capítulo cinco desarrolla la comercialización y distribución, abordando las temáticas de estructura y canales de distribución. Cierra el componente con el capítulo seis en donde se aborda la integración, desarrollando los temas de entorno y segmentación, diagnóstico y culmina con informes.")
       .col-auto
-        a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
+        a.anexo.mb-5(:href="obtenerLink('/downloads/Síntesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/bullets/icono-pdf.svg")
           .anexo__texto

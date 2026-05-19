@@ -11,7 +11,7 @@
       .bloque-texto-t__img.mb-0
         img(src='@/assets/curso/tema6/img_1.png')
       .bloque-texto-t__texto.col-10.mb-0
-        p.mb-0 El diagnóstico del entorno y la segmentación del mercado constituyen procesos complementarios dentro de la planeación estratégica de mercadeo. Mientras el diagnóstico permite comprender las condiciones internas y externas que afectan a la organización, la segmentación facilita la identificación de los grupos de consumidores con mayor potencial para el desarrollo de estrategias comerciales efectivas, la integración de ambos procesos garantiza decisiones estratégicas coherentes con la realidad del mercado.
+        p.mb-0 El diagnóstico del entorno y la segmentación del mercado constituyen procesos complementarios dentro de la planeación estratégica de mercadeo. Mientras el diagnóstico permite comprender las condiciones internas y externas que afectan a la organización, la segmentación facilita la identificación de los grupos de consumidores con mayor potencial para el desarrollo de estrategias comerciales efectivas; la integración de ambos procesos garantiza decisiones estratégicas coherentes con la realidad del mercado.
     
     .row.justify-content-center.align-items-center.mb-0
       .col-3.col-lg-1.d-none.d-lg-block.mb-3.mb-lg-0(data-aos="zoom-in-right")
@@ -36,7 +36,7 @@
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-10.mb-0
         .cajon.color-acento-botones.p-4(data-aos="zoom-in-right")
-          p.mb-0 Por ejemplo, si el diagnóstico del entorno evidencia un crecimiento significativo del comercio electrónico en un determinado país, la segmentación puede enfocarse en consumidores digitales con alta frecuencia de compra en línea, permitiendo diseñar estrategias específicas para este segmento, de esta manera, el diagnóstico se convierte en el insumo fundamental para orientar el proceso de segmentación de mercados.
+          p.mb-0 Por ejemplo, si el diagnóstico del entorno evidencia un crecimiento significativo del comercio electrónico en un determinado país, la segmentación puede enfocarse en consumidores digitales con alta frecuencia de compra en línea, permitiendo diseñar estrategias específicas para este segmento. De esta manera, el diagnóstico se convierte en el insumo fundamental para orientar el proceso de segmentación de mercados.
 
     Separador
 
@@ -49,7 +49,7 @@
         figure
           img(src='@/assets/curso/tema6/img_4.png', class="img-fluid")
       .col-12.col-lg-9.mb-0
-        p.mb-3(data-aos="zoom-in-right") La construcción del diagnóstico del mercado objetivo consiste en integrar la información obtenida del análisis del entorno con los resultados del proceso de segmentación, con el fin de identificar los segmentos más atractivos para la organización, este proceso implica evaluar variables como tamaño del segmento, capacidad de compra, tendencias de consumo, nivel de competencia y accesibilidad del mercado.
+        p.mb-3(data-aos="zoom-in-right") La construcción del diagnóstico del mercado objetivo consiste en integrar la información obtenida del análisis del entorno con los resultados del proceso de segmentación, con el fin de identificar los segmentos más atractivos para la organización. Este proceso implica evaluar variables como tamaño del segmento, capacidad de compra, tendencias de consumo, nivel de competencia y accesibilidad del mercado.
         .tarjeta.color-acento-botones-cv.p-4.rounded-3.mb-0(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0
             .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
@@ -109,10 +109,10 @@
             .col-12.col-md-8.col-lg-10.p-4
               .row.justify-content-between.align-items-center.g-3
                 .col-12.col-sm
-                  p.mb-0 <B>Ejemplo aplicado.</B> Una compañía del sector tecnológico presentó un informe por medio del cual evidenció el crecimiento del segmento de usuarios de dispositivos móviles en cierta región, recomendando el fortalecimiento de canales digitales y campañas promocionales dirigidas a este público específico, a continuación, se podrá ver dicho informe.
+                  p.mb-0 <B>Ejemplo aplicado.</B> Una compañía del sector tecnológico presentó un informe por medio del cual evidenció el crecimiento del segmento de usuarios de dispositivos móviles en cierta región, recomendando el fortalecimiento de canales digitales y campañas promocionales dirigidas a este público específico, a continuación, lo invitamos a que consulte la lectura complementaria del informe.
                 .col-12.col-sm-auto.pe-4
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Ejemplo_aplicado.pdf')" target="_blank")
-                    span Enlace PDF
+                    span Descargar
                     i.fas.fa-file-download.ms-2
 
     .row.justify-content-center.align-items-center.mb-5

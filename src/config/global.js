@@ -261,12 +261,12 @@ export default {
       autores: [
         {
           nombre: 'Nicolas Cruz Ríos',
-          cargo: 'Experto Temático',
+          cargo: 'Experto temático',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Jair Coll Gallardo',
-          cargo: 'Evaluador Instruccional',
+          nombre: 'Jair Enrique Coll Gallardo',
+          cargo: 'Evaluador instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],

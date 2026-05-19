@@ -204,7 +204,7 @@
         figure
           img(src='@/assets/curso/tema4/img_21.png', class="img-fluid")
       .col-12.col-lg-10(data-aos="zoom-in-right")
-        p.mb-0 Una adecuada selección del mercado objetivo permite concentrar los esfuerzos comerciales en los segmentos más atractivos, optimizando la inversión en <em>marketing</em> y aumentando la efectividad de las estrategias de posicionamiento. Por ejemplo, una empresa de productos orgánicos puede seleccionar como mercado objetivo consumidores urbanos con alto nivel educativo y preocupación por el bienestar saludable, diseñando campañas specializadas que respondan a sus expectativas.
+        p.mb-0 Una adecuada selección del mercado objetivo permite concentrar los esfuerzos comerciales en los segmentos más atractivos, optimizando la inversión en <em>marketing</em> y aumentando la efectividad de las estrategias de posicionamiento. Por ejemplo, una empresa de productos orgánicos puede seleccionar como mercado objetivo consumidores urbanos con alto nivel educativo y preocupación por el bienestar saludable, diseñando campañas especializadas que respondan a sus expectativas.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10(data-aos="zoom-in-right")

@@ -31,7 +31,7 @@
     .tarjeta--bg-img.color-acento-contenido-cv.rounded-3.p-0.mb-5.overflow-hidden(data-aos="fade-right")
       .row.justify-content-center.align-items-center.mb-0.h-100
         .col-12.col-lg-7.p-5
-          p.mb-4 El macroentorno está compuesto por factores externos que afectan a todas las organizaciones de una economía y que generalmente no pueden ser controlados por las empresas, entre los principales componentes del macroentorno se encuentran los factores económicos, demográficos, tecnológicos, socioculturales, políticos y ambientales.
+          p.mb-4 El macroentorno está compuesto por factores externos que afectan a todas las organizaciones de una economía y que generalmente no pueden ser controlados por las empresas; entre los principales componentes del macroentorno se encuentran los factores económicos, demográficos, tecnológicos, socioculturales, políticos y ambientales.
           p.mb-0 Por ejemplo, el crecimiento del comercio digital ha sido impulsado por avances tecnológicos y cambios en los hábitos de consumo, obligando a las empresas tradicionales a incorporar plataformas de comercio electrónico para mantener su competitividad. El análisis del macroentorno permite anticipar tendencias y preparar estrategias de adaptación.
         .col-12.col-lg-5.mb-lg-0.mb-3.p-0.align-self-stretch.d-none.d-lg-block
           figure.p-0.m-0.h-100
@@ -104,7 +104,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema2/img_12.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El microentorno está conformado por los actores cercanos a la empresa que influyen directamente en su capacidad para servir al mercado, incluye clientes, competidores, proveedores, intermediarios y públicos de interés. A diferencia del macroentorno, las organizaciones pueden influir parcialmente en algunos de estos elementos mediante estrategias comerciales y relaciones estratégicas (Ferrell & Hartline, 2021).
+        p.mb-0 El microentorno está conformado por los actores cercanos a la empresa que influyen directamente en su capacidad para servir al mercado; incluye clientes, competidores, proveedores, intermediarios y públicos de interés. A diferencia del macroentorno, las organizaciones pueden influir parcialmente en algunos de estos elementos mediante estrategias comerciales y relaciones estratégicas (Ferrell & Hartline, 2021).
 
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-10.mb-0
@@ -154,7 +154,7 @@
       .bloque-texto-t__img.mb-0
         img(src='@/assets/curso/tema2/img_17.png')
       .bloque-texto-t__texto.col-10.mb-0
-        p.mb-0 El uso combinado de ambos tipos de fuentes mejora la confiabilidad del análisis estratégico, ya que la información secundaria proporciona el contexto general del mercado mientras la información primaria permite validar percepciones reales del consumidor. Por ejemplo, una empresa que desea ingresar a un mercado internacional puede utilizar estadísticas de comercio exterior (fuente secundaria) y posteriormente aplicar encuestas a distribuidores locales (fuente primaria) para validar oportunidades comerciales.
+        p.mb-0 El uso combinado de ambos tipos de fuentes mejora la confiabilidad del análisis estratégico, ya que la información secundaria proporciona el contexto general del mercado, mientras que la información primaria permite validar percepciones reales del consumidor. Por ejemplo, una empresa que desea ingresar a un mercado internacional puede utilizar estadísticas de comercio exterior (fuente secundaria) y posteriormente aplicar encuestas a distribuidores locales (fuente primaria) para validar oportunidades comerciales.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-12.col-lg-12.mb-3
@@ -162,8 +162,8 @@
           h5 Figura 1.
           |    Tipos de fuentes de información del entorno
         figure(data-aos="flip-left")
-          img(src='@/assets/curso/tema2/img_18.svg', class="img-fluid d-none d-lg-block", alt="La figura muestra los tipos de fuentes de información del entorno.").mb-5
-          img(src='@/assets/curso/tema2/img_19.svg', class="img-fluid d-block d-lg-none", alt="La figura muestra los tipos de fuentes de información del entorno.").mb-5
+          img(src='@/assets/curso/tema2/img_18.svg', class="img-fluid d-none d-lg-block", alt="La figura muestra los diferentes tipos de fuentes de información que pueden utilizarse para recolectar datos y apoyar la toma de decisiones dentro de una empresa u organización o Estas fuentes se clasifican en primarias, secundarias, internas y externas, según el origen de la información y la manera en que se obtiene. ").mb-5
+          img(src='@/assets/curso/tema2/img_19.svg', class="img-fluid d-block d-lg-none", alt="La figura muestra los diferentes tipos de fuentes de información que pueden utilizarse para recolectar datos y apoyar la toma de decisiones dentro de una empresa u organización o Estas fuentes se clasifican en primarias, secundarias, internas y externas, según el origen de la información y la manera en que se obtiene. ").mb-5
           figcaption Nota. SENA, (2026).
 
     .row.justify-content-center.align-items-center.mb-5
